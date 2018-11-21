@@ -1,0 +1,2 @@
+ICSharpCode.SharpZipLib.dll/Mono.Cecil.dll supports DeveloperToolbox.exe
+No need to distribute the assemblies in your own solution.

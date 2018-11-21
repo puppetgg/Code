@@ -1,0 +1,207 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title> - VueDemo</title>
+</head>
+
+<body style="color: rgb(182, 170, 123);background-color: rgb(56, 56, 56) !important" ;>
+
+
+    <script src="Z:\CodeDemo\VueDemo\wwwroot\js\vue.js"></script>
+
+
+    <div id="app">
+        <h1>{{a==null?'a是空值':a}}</h1>
+        <h1>{{!b&&'if语句简写'}}</h1>
+        <h1>{{c&&'二元表达式'}}</h1>
+        <h1>算术运算{{attr+23}}</h1>
+        <h1>{{ap.split('').join('|')}}</h1>
+    </div>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            data: {
+                a: '三元表达式',
+                b: null,
+                c: 'c',
+                attr: 123,
+                ap: 'Vue分隔符'
+            },
+            created: function () {　
+                var str='vue';
+                var arr= str.split('');
+                alert('split:'+arr);　
+            },
+
+        });
+    </script>
+
+
+    ----------------------------------绑定表达式--------------------------------------
+    <br/>
+    <!-- 
+    <h1 id="app2" v-bind:attr="'attr'+attr">属性绑定</h1>
+    <h1 id="app" :attr="'attr'+attr">属性绑定2</h1>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            data: {
+                attr: '123'
+            }
+        });
+    </script> -->
+    ----------------------------------属性绑定--------------------------------------
+    <br/>
+    <!-- <h1 id="app">生命周期</h1>
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            　init: function () {　　
+               alert('init');　
+            },
+            created: function () {　　
+               alert('created');　
+            },
+            　beforeCompile: function () {　　
+               alert('beforeCompile');　
+            },
+            　compiled: function () {　　
+               alert('compiled');　
+            },
+            　attached: function () {　　
+               alert('attached');　
+            },
+            　dettached: function () {　　
+               alert('dettached');　
+            },
+            　beforeDestroy: function () {　　
+               alert('beforeDestroy');　
+            },
+            　destroyed: function () {　　
+               alert('destroyed');　
+            },
+            　ready: function () {　　
+               alert('ready');　　 // 组件完成后调用 $destory() 函数，进行销毁
+                　　
+                this.$destroy();　
+            }
+        });
+    </script> -->
+
+
+    <!-- <div id="app">
+        <button v-on:click="alert" />alert</button>
+        <input value="Sure" v-on:click="alert2" type="button" />
+    </div>
+    <script type="text/javascript">
+        var vm = new Vue({　
+            el: '#app',
+            　data: {
+                a: 1,
+                b: 'abc123'
+            },
+            　methods: {　　
+                alert: function () {　　　
+                    alert(this.a);　　
+                },
+                alert2: function () {　　　
+                    alert(this.b);　　
+                }　
+            }
+        });
+    </script> -->
+    <!-- <my-component title='myTitle' content='myContent'></my-component>
+    <script type="text/javascript">
+        var MyComponent = Vue.component('my-component', {　
+            props: ['title', 'content'],
+            　data: function () {　　
+                return {
+                    desc: '123'　　
+                }　
+            },
+            　template: '<div> \　　<h1>{{title}}</h1> \　　　<p>{{content}}</p> \　　　<p>{{desc}}</p> \　　</div>'
+        })
+    </script> -->
+
+
+    <p>-----------------------------------------------------</p>
+    <!-- <script src="~/js/codejs.js">-->
+
+    <!-- 
+    <h1 id="app">{{message}}</h1>
+
+    <script type="text/javascript">
+        var vm = new Vue({
+            el: '#app',
+            data: {
+                message: 'apappapappa'
+            }
+
+
+        });
+    </script> -->
+    <!-- 
+    <div id="app3">
+        <message content="第二个特性是组件化，简单来说我们可以自己定义 HTML 标签，并在模板中使用它"></message>
+
+    </div>
+    <script type="text/javascript">
+        var Message = Vue.extend({　　
+            props: ['content'],
+            　　template: '<h1>{{content}}</h1>'　
+        });　
+        Vue.component('message', Message);　
+        var vm = new Vue({　　
+            el: '#app3',
+          
+        });
+    </script> -->
+    <!-- <div id="app">
+
+        <p>123</p>
+    </div>
+    <script id="tpl" type="x-template">
+        <div class='tpl'>
+            <p>This is a tpl from script tag</p>
+        </div>
+    </script>
+    <script type="text/javascript">
+        var vm = new Vue({　　
+            el: '#app',
+            　　template: '#tpl'　
+        });
+    </script>
+ -->
+    <!-- <script>
+        var data = {
+            a: 1
+        }
+        var vm = new Vue({　
+            data: data
+        })
+        console.log(vm.$data === data); // -> true
+        console.log(vm.a === data.a); // -> true
+        // 设置属性也会影响到原始数据
+        vm.a = 2
+        data.a // -> 2
+        // 反之亦然
+        data.a = 3
+        vm.a // -> 3
+    </script> -->
+
+
+    <div>
+        <footer>
+            <p>© 2017 - VueDemo</p>
+        </footer>
+    </div>
+
+
+
+</body>
+
+</html>

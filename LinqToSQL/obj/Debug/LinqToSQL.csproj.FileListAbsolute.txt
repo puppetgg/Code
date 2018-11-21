@@ -1,0 +1,13 @@
+C:\work\测试论证\Task编程\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+C:\work\测试论证\Task编程\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\work\测试论证\Task编程\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\work\测试论证\Task编程\LinqToSQL\obj\Debug\LinqToSQL.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\work\测试论证\Task编程\LinqToSQL\obj\Debug\LinqToSQL.pdb
+C:\work\code记录\code记录\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+C:\work\code记录\code记录\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\work\code记录\code记录\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\work\code记录\code记录\LinqToSQL\obj\Debug\LinqToSQL.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\work\code记录\code记录\LinqToSQL\obj\Debug\LinqToSQL.pdb

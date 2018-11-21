@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\three\bin\Debug\netcoreapp2.0\three.deps.json
+C:\work\code记录\code记录\three\bin\Debug\netcoreapp2.0\three.runtimeconfig.json
+C:\work\code记录\code记录\three\bin\Debug\netcoreapp2.0\three.runtimeconfig.dev.json
+C:\work\code记录\code记录\three\bin\Debug\netcoreapp2.0\three.dll
+C:\work\code记录\code记录\three\bin\Debug\netcoreapp2.0\three.pdb
+C:\work\code记录\code记录\three\obj\Debug\netcoreapp2.0\three.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\three\obj\Debug\netcoreapp2.0\three.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\three\obj\Debug\netcoreapp2.0\three.AssemblyInfo.cs
+C:\work\code记录\code记录\three\obj\Debug\netcoreapp2.0\three.dll
+C:\work\code记录\code记录\three\obj\Debug\netcoreapp2.0\three.pdb
+C:\work\code记录\code记录\three\obj\Debug\netcoreapp2.0\three.csprojResolveAssemblyReference.cache

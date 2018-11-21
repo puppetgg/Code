@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\UDPClient\bin\Debug\netcoreapp2.0\UDPClient.deps.json
+C:\work\code记录\code记录\UDPClient\bin\Debug\netcoreapp2.0\UDPClient.runtimeconfig.json
+C:\work\code记录\code记录\UDPClient\bin\Debug\netcoreapp2.0\UDPClient.runtimeconfig.dev.json
+C:\work\code记录\code记录\UDPClient\bin\Debug\netcoreapp2.0\UDPClient.dll
+C:\work\code记录\code记录\UDPClient\bin\Debug\netcoreapp2.0\UDPClient.pdb
+C:\work\code记录\code记录\UDPClient\obj\Debug\netcoreapp2.0\UDPClient.csprojAssemblyReference.cache
+C:\work\code记录\code记录\UDPClient\obj\Debug\netcoreapp2.0\UDPClient.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\UDPClient\obj\Debug\netcoreapp2.0\UDPClient.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\UDPClient\obj\Debug\netcoreapp2.0\UDPClient.AssemblyInfo.cs
+C:\work\code记录\code记录\UDPClient\obj\Debug\netcoreapp2.0\UDPClient.dll
+C:\work\code记录\code记录\UDPClient\obj\Debug\netcoreapp2.0\UDPClient.pdb

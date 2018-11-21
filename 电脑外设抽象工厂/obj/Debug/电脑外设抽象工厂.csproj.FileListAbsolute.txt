@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\电脑外设抽象工厂\bin\Debug\电脑外设抽象工厂.exe.config
+C:\work\code记录\code记录\电脑外设抽象工厂\bin\Debug\电脑外设抽象工厂.exe
+C:\work\code记录\code记录\电脑外设抽象工厂\bin\Debug\电脑外设抽象工厂.pdb
+C:\work\code记录\code记录\电脑外设抽象工厂\obj\Debug\电脑外设抽象工厂.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\电脑外设抽象工厂\obj\Debug\电脑外设抽象工厂.exe
+C:\work\code记录\code记录\电脑外设抽象工厂\obj\Debug\电脑外设抽象工厂.pdb

@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\3原型中的简写\bin\Debug\3原型中的简写.exe.config
+C:\work\code记录\code记录\3原型中的简写\bin\Debug\3原型中的简写.exe
+C:\work\code记录\code记录\3原型中的简写\bin\Debug\3原型中的简写.pdb
+C:\work\code记录\code记录\3原型中的简写\obj\Debug\3原型中的简写.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\3原型中的简写\obj\Debug\3原型中的简写.exe
+C:\work\code记录\code记录\3原型中的简写\obj\Debug\3原型中的简写.pdb

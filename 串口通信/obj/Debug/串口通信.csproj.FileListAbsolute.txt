@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\串口通信\bin\Debug\串口通信.exe.config
+C:\work\code记录\code记录\串口通信\bin\Debug\串口通信.exe
+C:\work\code记录\code记录\串口通信\bin\Debug\串口通信.pdb
+C:\work\code记录\code记录\串口通信\obj\Debug\串口通信.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\串口通信\obj\Debug\串口通信.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\串口通信\obj\Debug\串口通信.exe
+C:\work\code记录\code记录\串口通信\obj\Debug\串口通信.pdb

@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\5委托中的异步回调简写\bin\Debug\5委托中的异步回调简写.exe.config
+C:\work\code记录\code记录\5委托中的异步回调简写\bin\Debug\5委托中的异步回调简写.exe
+C:\work\code记录\code记录\5委托中的异步回调简写\bin\Debug\5委托中的异步回调简写.pdb
+C:\work\code记录\code记录\5委托中的异步回调简写\obj\Debug\5委托中的异步回调简写.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\5委托中的异步回调简写\obj\Debug\5委托中的异步回调简写.exe
+C:\work\code记录\code记录\5委托中的异步回调简写\obj\Debug\5委托中的异步回调简写.pdb

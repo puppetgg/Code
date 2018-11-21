@@ -1,0 +1,12 @@
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\bin\Debug\三角插孔和两脚插头之间的适配.exe.config
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\bin\Debug\三角插孔和两脚插头之间的适配.exe
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\bin\Debug\三角插孔和两脚插头之间的适配.pdb
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\obj\Debug\三角插孔和两脚插头之间的适配.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\obj\Debug\三角插孔和两脚插头之间的适配.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\obj\Debug\三角插孔和两脚插头之间的适配.exe
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\obj\Debug\三角插孔和两脚插头之间的适配.pdb
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\bin\Debug\三角插孔和两脚插头之间的适配.exe.manifest
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\bin\Debug\三角插孔和两脚插头之间的适配.application
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\obj\Debug\三角插孔和两脚插头之间的适配.TrustInfo.xml
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\obj\Debug\三角插孔和两脚插头之间的适配.exe.manifest
+C:\work\code记录\code记录\三角插孔和两脚插头之间的适配\obj\Debug\三角插孔和两脚插头之间的适配.application

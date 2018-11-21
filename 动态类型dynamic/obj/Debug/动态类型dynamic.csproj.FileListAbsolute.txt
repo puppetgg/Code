@@ -1,0 +1,11 @@
+C:\work\测试论证\Task编程\动态类型dynamic\bin\Debug\动态类型dynamic.exe.config
+C:\work\测试论证\Task编程\动态类型dynamic\bin\Debug\动态类型dynamic.exe
+C:\work\测试论证\Task编程\动态类型dynamic\bin\Debug\动态类型dynamic.pdb
+C:\work\测试论证\Task编程\动态类型dynamic\obj\Debug\动态类型dynamic.exe
+C:\work\测试论证\Task编程\动态类型dynamic\obj\Debug\动态类型dynamic.pdb
+C:\work\code记录\code记录\动态类型dynamic\bin\Debug\动态类型dynamic.exe.config
+C:\work\code记录\code记录\动态类型dynamic\bin\Debug\动态类型dynamic.exe
+C:\work\code记录\code记录\动态类型dynamic\bin\Debug\动态类型dynamic.pdb
+C:\work\code记录\code记录\动态类型dynamic\obj\Debug\动态类型dynamic.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\动态类型dynamic\obj\Debug\动态类型dynamic.exe
+C:\work\code记录\code记录\动态类型dynamic\obj\Debug\动态类型dynamic.pdb

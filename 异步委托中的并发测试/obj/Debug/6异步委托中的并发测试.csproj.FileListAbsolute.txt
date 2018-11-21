@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\异步委托中的并发测试\bin\Debug\异步委托中的并发测试.exe.config
+C:\work\code记录\code记录\异步委托中的并发测试\bin\Debug\异步委托中的并发测试.exe
+C:\work\code记录\code记录\异步委托中的并发测试\bin\Debug\异步委托中的并发测试.pdb
+C:\work\code记录\code记录\异步委托中的并发测试\obj\Debug\6异步委托中的并发测试.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\异步委托中的并发测试\obj\Debug\异步委托中的并发测试.exe
+C:\work\code记录\code记录\异步委托中的并发测试\obj\Debug\异步委托中的并发测试.pdb

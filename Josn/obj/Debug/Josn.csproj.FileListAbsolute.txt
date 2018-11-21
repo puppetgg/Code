@@ -1,0 +1,17 @@
+C:\work\测试论证\Task编程\Josn\bin\Debug\Josn.exe.config
+C:\work\测试论证\Task编程\Josn\bin\Debug\Josn.exe
+C:\work\测试论证\Task编程\Josn\bin\Debug\Josn.pdb
+C:\work\测试论证\Task编程\Josn\bin\Debug\Newtonsoft.Json.dll
+C:\work\测试论证\Task编程\Josn\bin\Debug\Newtonsoft.Json.xml
+C:\work\测试论证\Task编程\Josn\obj\Debug\Josn.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\Josn\obj\Debug\Josn.exe
+C:\work\测试论证\Task编程\Josn\obj\Debug\Josn.pdb
+C:\work\code记录\code记录\Josn\bin\Debug\Josn.exe.config
+C:\work\code记录\code记录\Josn\bin\Debug\Josn.exe
+C:\work\code记录\code记录\Josn\bin\Debug\Josn.pdb
+C:\work\code记录\code记录\Josn\bin\Debug\Newtonsoft.Json.dll
+C:\work\code记录\code记录\Josn\bin\Debug\Newtonsoft.Json.xml
+C:\work\code记录\code记录\Josn\obj\Debug\Josn.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\Josn\obj\Debug\Josn.csproj.CopyComplete
+C:\work\code记录\code记录\Josn\obj\Debug\Josn.exe
+C:\work\code记录\code记录\Josn\obj\Debug\Josn.pdb

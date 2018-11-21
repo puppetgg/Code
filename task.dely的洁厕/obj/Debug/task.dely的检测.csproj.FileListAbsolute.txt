@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\task.dely的洁厕\bin\Debug\task.dely的洁厕.exe.config
+C:\work\code记录\code记录\task.dely的洁厕\bin\Debug\task.dely的洁厕.exe
+C:\work\code记录\code记录\task.dely的洁厕\bin\Debug\task.dely的洁厕.pdb
+C:\work\code记录\code记录\task.dely的洁厕\obj\Debug\task.dely的检测.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\task.dely的洁厕\obj\Debug\task.dely的洁厕.exe
+C:\work\code记录\code记录\task.dely的洁厕\obj\Debug\task.dely的洁厕.pdb

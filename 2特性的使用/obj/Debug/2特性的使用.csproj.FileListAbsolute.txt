@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\2特性的使用\bin\Debug\2特性的使用.exe.config
+C:\work\code记录\code记录\2特性的使用\bin\Debug\2特性的使用.exe
+C:\work\code记录\code记录\2特性的使用\bin\Debug\2特性的使用.pdb
+C:\work\code记录\code记录\2特性的使用\obj\Debug\2特性的使用.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\2特性的使用\obj\Debug\2特性的使用.exe
+C:\work\code记录\code记录\2特性的使用\obj\Debug\2特性的使用.pdb

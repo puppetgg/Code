@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\LogClient\bin\Debug\LogClient.exe.config
+C:\work\code记录\code记录\LogClient\bin\Debug\LogClient.exe
+C:\work\code记录\code记录\LogClient\bin\Debug\LogClient.pdb
+C:\work\code记录\code记录\LogClient\obj\Debug\LogClient.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\LogClient\obj\Debug\LogClient.exe
+C:\work\code记录\code记录\LogClient\obj\Debug\LogClient.pdb

@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\vuetest\bin\Debug\netcoreapp2.0\vuetest.deps.json
+C:\work\code记录\code记录\vuetest\bin\Debug\netcoreapp2.0\vuetest.runtimeconfig.json
+C:\work\code记录\code记录\vuetest\bin\Debug\netcoreapp2.0\vuetest.runtimeconfig.dev.json
+C:\work\code记录\code记录\vuetest\bin\Debug\netcoreapp2.0\vuetest.dll
+C:\work\code记录\code记录\vuetest\bin\Debug\netcoreapp2.0\vuetest.pdb
+C:\work\code记录\code记录\vuetest\obj\Debug\netcoreapp2.0\vuetest.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\vuetest\obj\Debug\netcoreapp2.0\vuetest.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\vuetest\obj\Debug\netcoreapp2.0\vuetest.AssemblyInfo.cs
+C:\work\code记录\code记录\vuetest\obj\Debug\netcoreapp2.0\vuetest.dll
+C:\work\code记录\code记录\vuetest\obj\Debug\netcoreapp2.0\vuetest.pdb
+C:\work\code记录\code记录\vuetest\obj\Debug\netcoreapp2.0\vuetest.csprojResolveAssemblyReference.cache

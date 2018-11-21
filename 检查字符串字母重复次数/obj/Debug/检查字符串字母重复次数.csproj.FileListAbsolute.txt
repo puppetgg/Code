@@ -1,0 +1,12 @@
+C:\work\测试论证\Task编程\检查字符串字母重复次数\bin\Debug\检查字符串字母重复次数.exe.config
+C:\work\测试论证\Task编程\检查字符串字母重复次数\bin\Debug\检查字符串字母重复次数.exe
+C:\work\测试论证\Task编程\检查字符串字母重复次数\bin\Debug\检查字符串字母重复次数.pdb
+C:\work\测试论证\Task编程\检查字符串字母重复次数\obj\Debug\检查字符串字母重复次数.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\检查字符串字母重复次数\obj\Debug\检查字符串字母重复次数.exe
+C:\work\测试论证\Task编程\检查字符串字母重复次数\obj\Debug\检查字符串字母重复次数.pdb
+C:\work\code记录\code记录\检查字符串字母重复次数\bin\Debug\检查字符串字母重复次数.exe.config
+C:\work\code记录\code记录\检查字符串字母重复次数\bin\Debug\检查字符串字母重复次数.exe
+C:\work\code记录\code记录\检查字符串字母重复次数\bin\Debug\检查字符串字母重复次数.pdb
+C:\work\code记录\code记录\检查字符串字母重复次数\obj\Debug\检查字符串字母重复次数.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\检查字符串字母重复次数\obj\Debug\检查字符串字母重复次数.exe
+C:\work\code记录\code记录\检查字符串字母重复次数\obj\Debug\检查字符串字母重复次数.pdb

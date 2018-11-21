@@ -1,0 +1,15 @@
+C:\work\code记录\code记录\FluentTest\bin\Debug\FluentTest.dll.config
+C:\work\code记录\code记录\FluentTest\bin\Debug\FluentTest.dll
+C:\work\code记录\code记录\FluentTest\bin\Debug\FluentTest.pdb
+C:\work\code记录\code记录\FluentTest\bin\Debug\FluentNHibernate.dll
+C:\work\code记录\code记录\FluentTest\bin\Debug\Iesi.Collections.dll
+C:\work\code记录\code记录\FluentTest\bin\Debug\NHibernate.dll
+C:\work\code记录\code记录\FluentTest\bin\Debug\FluentNHibernate.pdb
+C:\work\code记录\code记录\FluentTest\bin\Debug\FluentNHibernate.xml
+C:\work\code记录\code记录\FluentTest\bin\Debug\Iesi.Collections.xml
+C:\work\code记录\code记录\FluentTest\bin\Debug\NHibernate.xml
+C:\work\code记录\code记录\FluentTest\obj\Debug\FluentTest.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\FluentTest\obj\Debug\FluentTest.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\FluentTest\obj\Debug\FluentTest.csproj.CopyComplete
+C:\work\code记录\code记录\FluentTest\obj\Debug\FluentTest.dll
+C:\work\code记录\code记录\FluentTest\obj\Debug\FluentTest.pdb

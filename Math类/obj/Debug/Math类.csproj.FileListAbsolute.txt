@@ -1,0 +1,12 @@
+C:\work\测试论证\Task编程\Math类\bin\Debug\Math类.exe.config
+C:\work\测试论证\Task编程\Math类\bin\Debug\Math类.exe
+C:\work\测试论证\Task编程\Math类\bin\Debug\Math类.pdb
+C:\work\测试论证\Task编程\Math类\obj\Debug\Math类.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\Math类\obj\Debug\Math类.exe
+C:\work\测试论证\Task编程\Math类\obj\Debug\Math类.pdb
+C:\work\code记录\code记录\Math类\bin\Debug\Math类.exe.config
+C:\work\code记录\code记录\Math类\bin\Debug\Math类.exe
+C:\work\code记录\code记录\Math类\bin\Debug\Math类.pdb
+C:\work\code记录\code记录\Math类\obj\Debug\Math类.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\Math类\obj\Debug\Math类.exe
+C:\work\code记录\code记录\Math类\obj\Debug\Math类.pdb

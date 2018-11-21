@@ -1,0 +1,9 @@
+C:\work\code记录\code记录\DAL\bin\Debug\DAL.dll
+C:\work\code记录\code记录\DAL\bin\Debug\DAL.pdb
+C:\work\code记录\code记录\DAL\bin\Debug\Model.dll
+C:\work\code记录\code记录\DAL\bin\Debug\Model.pdb
+C:\work\code记录\code记录\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\work\code记录\code记录\DAL\obj\Debug\DAL.dll
+C:\work\code记录\code记录\DAL\obj\Debug\DAL.pdb

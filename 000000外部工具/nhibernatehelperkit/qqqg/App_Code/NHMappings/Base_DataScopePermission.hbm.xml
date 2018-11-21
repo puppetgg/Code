@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.0">
+<class name="qqqg.Base_DataScopePermission, qqqg" table="Base_DataScopePermission" >
+<property name="DataScopePermissionId" column="DataScopePermissionId" type="String" length="50" />
+<property name="Category" column="Category" type="String" length="50" />
+<property name="ObjectId" column="ObjectId" type="String" length="50" />
+<property name="ModuleId" column="ModuleId" type="String" length="50" />
+<property name="ResourceId" column="ResourceId" type="String" length="50" />
+<property name="Condition" column="Condition" type="String" />
+<property name="ConditionJson" column="ConditionJson" type="String" />
+<property name="ScopeType" column="ScopeType" type="String" length="50" />
+<property name="SortCode" column="SortCode" type="Int32" length="4" />
+<property name="CreateDate" column="CreateDate" type="DateTime" />
+<property name="CreateUserId" column="CreateUserId" type="String" length="50" />
+<property name="CreateUserName" column="CreateUserName" type="String" length="50" />
+</class>
+
+</hibernate-mapping>

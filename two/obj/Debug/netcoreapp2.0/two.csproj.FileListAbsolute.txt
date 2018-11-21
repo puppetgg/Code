@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\two\bin\Debug\netcoreapp2.0\two.deps.json
+C:\work\code记录\code记录\two\bin\Debug\netcoreapp2.0\two.runtimeconfig.json
+C:\work\code记录\code记录\two\bin\Debug\netcoreapp2.0\two.runtimeconfig.dev.json
+C:\work\code记录\code记录\two\bin\Debug\netcoreapp2.0\two.dll
+C:\work\code记录\code记录\two\bin\Debug\netcoreapp2.0\two.pdb
+C:\work\code记录\code记录\two\obj\Debug\netcoreapp2.0\two.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\two\obj\Debug\netcoreapp2.0\two.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\two\obj\Debug\netcoreapp2.0\two.AssemblyInfo.cs
+C:\work\code记录\code记录\two\obj\Debug\netcoreapp2.0\two.dll
+C:\work\code记录\code记录\two\obj\Debug\netcoreapp2.0\two.pdb
+C:\work\code记录\code记录\two\obj\Debug\netcoreapp2.0\two.csprojResolveAssemblyReference.cache

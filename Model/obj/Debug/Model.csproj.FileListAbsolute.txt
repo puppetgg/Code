@@ -1,0 +1,5 @@
+C:\work\code记录\code记录\Model\bin\Debug\Model.dll
+C:\work\code记录\code记录\Model\bin\Debug\Model.pdb
+C:\work\code记录\code记录\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\Model\obj\Debug\Model.dll
+C:\work\code记录\code记录\Model\obj\Debug\Model.pdb

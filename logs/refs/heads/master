@@ -1,0 +1,52 @@
+0000000000000000000000000000000000000000 552efa315bbb2c913b2b4dceb6aa5838509204b0 puppetgg <puppetgg@hotmail.com> 1523581368 +0800	commit (initial): 添加 .gitignore 和 .gitattributes。
+552efa315bbb2c913b2b4dceb6aa5838509204b0 48c751e18a828368047529db158b7bd71ebc8330 puppetgg <puppetgg@hotmail.com> 1523581581 +0800	commit: 添加项目文件。
+48c751e18a828368047529db158b7bd71ebc8330 41ed5a36495b4f362e564faf4609d1904812818d puppetgg <puppetgg@hotmail.com> 1523858318 +0800	commit: mmm
+41ed5a36495b4f362e564faf4609d1904812818d 4ae1bd89be98a11d2158ce6fe27e8a01cad2cdd1 puppetgg <puppetgg@hotmail.com> 1524037910 +0800	commit: s
+4ae1bd89be98a11d2158ce6fe27e8a01cad2cdd1 55f42f1dfccbc0e924dca3171d413d493133706d puppetgg <puppetgg@hotmail.com> 1524040342 +0800	commit: qq
+55f42f1dfccbc0e924dca3171d413d493133706d e01f6c6b4a503984d4e2027d4667d57c0435c960 puppetgg <puppetgg@hotmail.com> 1524124434 +0800	commit: s
+e01f6c6b4a503984d4e2027d4667d57c0435c960 8186eb085d1fa47979b9e7afeffc7d0915e9e573 puppetgg <puppetgg@hotmail.com> 1524126091 +0800	merge tnt: Fast-forward
+8186eb085d1fa47979b9e7afeffc7d0915e9e573 41ed5a36495b4f362e564faf4609d1904812818d puppetgg <puppetgg@hotmail.com> 1524127503 +0800	reset: moving to 41ed5
+41ed5a36495b4f362e564faf4609d1904812818d e01f6c6b4a503984d4e2027d4667d57c0435c960 puppetgg <puppetgg@hotmail.com> 1524128165 +0800	reset: moving to e01f6c6
+e01f6c6b4a503984d4e2027d4667d57c0435c960 41ed5a36495b4f362e564faf4609d1904812818d puppetgg <puppetgg@hotmail.com> 1524128457 +0800	reset: moving to 41ed5a3
+41ed5a36495b4f362e564faf4609d1904812818d 20b13a12033f3f42307d4b268253d2b922c26475 puppetgg <puppetgg@hotmail.com> 1524129630 +0800	commit: 合并提交
+20b13a12033f3f42307d4b268253d2b922c26475 520457d8358c4bd54bc193e34f739584c6adc0da puppetgg <puppetgg@hotmail.com> 1524210738 +0800	commit: 组合模式
+520457d8358c4bd54bc193e34f739584c6adc0da 93058124ca93544d1890a8238b1283b1a8187481 puppetgg <puppetgg@hotmail.com> 1524215339 +0800	merge zuhemoshi: Fast-forward
+93058124ca93544d1890a8238b1283b1a8187481 c91bfb72f416765d256f2efe769cfaf461e46f58 puppetgg <puppetgg@hotmail.com> 1524563030 +0800	commit: 添加门面模式
+c91bfb72f416765d256f2efe769cfaf461e46f58 93058124ca93544d1890a8238b1283b1a8187481 puppetgg <puppetgg@hotmail.com> 1524563275 +0800	reset: moving to 9305812
+93058124ca93544d1890a8238b1283b1a8187481 8186eb085d1fa47979b9e7afeffc7d0915e9e573 puppetgg <puppetgg@hotmail.com> 1524563336 +0800	reset: moving to 8186eb0
+8186eb085d1fa47979b9e7afeffc7d0915e9e573 c91bfb72f416765d256f2efe769cfaf461e46f58 puppetgg <puppetgg@hotmail.com> 1524563551 +0800	reset: moving to c91bfb7
+c91bfb72f416765d256f2efe769cfaf461e46f58 3ed25d08866c63937e3f4e6ef9f1ee12130fd4d9 puppetgg <puppetgg@hotmail.com> 1524621273 +0800	commit: 代理模式
+3ed25d08866c63937e3f4e6ef9f1ee12130fd4d9 1ff86248f51074c390f4fbef5c63031aa326d43d puppetgg <puppetgg@hotmail.com> 1524621953 +0800	commit: 模板方法
+1ff86248f51074c390f4fbef5c63031aa326d43d d21fe82da84e333824b903fec15ea0ea7687f3ce puppetgg <puppetgg@hotmail.com> 1524625233 +0800	commit: 命令方法
+d21fe82da84e333824b903fec15ea0ea7687f3ce 4b35904d3d09128e85684126f8115377ea8e8c66 puppetgg <puppetgg@hotmail.com> 1524626930 +0800	commit: 回溯测试
+4b35904d3d09128e85684126f8115377ea8e8c66 d21fe82da84e333824b903fec15ea0ea7687f3ce puppetgg <puppetgg@hotmail.com> 1524626970 +0800	reset: moving to d21fe82
+d21fe82da84e333824b903fec15ea0ea7687f3ce 4b35904d3d09128e85684126f8115377ea8e8c66 puppetgg <puppetgg@hotmail.com> 1524627083 +0800	reset: moving to 4b35904
+4b35904d3d09128e85684126f8115377ea8e8c66 fa07228d7a23435df535765f0acb4f0c6dd11276 puppetgg <puppetgg@hotmail.com> 1524627391 +0800	commit: 回溯测试
+fa07228d7a23435df535765f0acb4f0c6dd11276 d21fe82da84e333824b903fec15ea0ea7687f3ce puppetgg <puppetgg@hotmail.com> 1524627421 +0800	reset: moving to d21fe82
+d21fe82da84e333824b903fec15ea0ea7687f3ce aee53cc4930533abbc1187f310d99cde942e61f8 puppetgg <puppetgg@hotmail.com> 1524627557 +0800	commit: 回溯测试
+aee53cc4930533abbc1187f310d99cde942e61f8 07d6c9048d89cdf7cf65815abc4dc3327467aa1c puppetgg <puppetgg@hotmail.com> 1524729814 +0800	commit: MSMQ
+07d6c9048d89cdf7cf65815abc4dc3327467aa1c 5d14466d1f2a6da8d40f95d0c187b853cb2add0f puppetgg <puppetgg@hotmail.com> 1524794921 +0800	commit: msmq
+5d14466d1f2a6da8d40f95d0c187b853cb2add0f 7f913624e0bda56146df12443dfd3a46be474855 puppetgg <puppetgg@hotmail.com> 1525397131 +0800	commit: 添加文档操作
+7f913624e0bda56146df12443dfd3a46be474855 35e65b6833e354cab66b395b5160741f74dea39d puppetgg <puppetgg@hotmail.com> 1525399952 +0800	commit: 倒入
+35e65b6833e354cab66b395b5160741f74dea39d e22f9f1667a43afe66f23f73144c3281e03b918c puppetgg <puppetgg@hotmail.com> 1525654570 +0800	commit: 倒入
+e22f9f1667a43afe66f23f73144c3281e03b918c ce47fbd165ea185d9b3e96f7297dda1fb9934a84 puppetgg <puppetgg@hotmail.com> 1525848226 +0800	commit: NH的使用
+ce47fbd165ea185d9b3e96f7297dda1fb9934a84 bf9761f56adcac93c0d8f5306a0628d212961efd puppetgg <puppetgg@hotmail.com> 1525863570 +0800	commit: mm
+bf9761f56adcac93c0d8f5306a0628d212961efd d94a7ca2daf7af88ac92c1ba05c0c4f73dec426d puppetgg <puppetgg@hotmail.com> 1526000935 +0800	commit: 123
+d94a7ca2daf7af88ac92c1ba05c0c4f73dec426d c3bcc48a0e782c7128b65268e54b62671b58d056 puppetgg <puppetgg@hotmail.com> 1526006142 +0800	commit: fsaf
+c3bcc48a0e782c7128b65268e54b62671b58d056 0613bffd4110091c2ed2d6076e9cd3ca83f692c5 puppetgg <puppetgg@hotmail.com> 1526041859 +0800	commit: 's'
+0613bffd4110091c2ed2d6076e9cd3ca83f692c5 5183185980eba475e9ff4d7e55faa78e6408beed puppetgg <puppetgg@hotmail.com> 1526288156 +0800	commit: 关于异步的测试
+5183185980eba475e9ff4d7e55faa78e6408beed eb0d02aa8f5fa2ca23031ffeefee3631a19b6166 puppetgg <puppetgg@hotmail.com> 1526292471 +0800	commit: m
+eb0d02aa8f5fa2ca23031ffeefee3631a19b6166 10e644b284759012bcb7bd6bb2c06d79e34a4cae puppetgg <puppetgg@hotmail.com> 1526355690 +0800	commit: winfrm异步
+10e644b284759012bcb7bd6bb2c06d79e34a4cae 6df3f8b04c21fe20cbb64784db0d0c118846a909 puppetgg <puppetgg@hotmail.com> 1526373671 +0800	merge tt: Fast-forward
+6df3f8b04c21fe20cbb64784db0d0c118846a909 6e99630f88d09a95e1ee05ac4219d6107725d114 puppetgg <puppetgg@hotmail.com> 1526373772 +0800	commit: 合并冲突
+6e99630f88d09a95e1ee05ac4219d6107725d114 14f44d0e81454f6f2c102ab9df3e11b0a8e1d86b puppetgg <puppetgg@hotmail.com> 1526438900 +0800	commit: 修改task测试
+14f44d0e81454f6f2c102ab9df3e11b0a8e1d86b 79311567da2d603ba81940b0361d80d124749b4c puppetgg <puppetgg@hotmail.com> 1526456381 +0800	commit: 修改文档编辑、
+79311567da2d603ba81940b0361d80d124749b4c 03cd97674fdf5ff8c7c2f38806ddbdb6fcda2947 puppetgg <puppetgg@hotmail.com> 1526462619 +0800	commit: 多线程
+03cd97674fdf5ff8c7c2f38806ddbdb6fcda2947 c1c8b2fdb125c920fdd291a2ae5fbf19025adaad puppetgg <puppetgg@hotmail.com> 1526955754 +0800	commit: 添加外部网文件
+c1c8b2fdb125c920fdd291a2ae5fbf19025adaad 1c39941948bfe4d602e07d3b5ff74d462b1bfa07 puppetgg <puppetgg@hotmail.com> 1526956023 +0800	commit (merge): m
+1c39941948bfe4d602e07d3b5ff74d462b1bfa07 71f7680ce0e75428365e0e067b5199d3003f54dd puppetgg <puppetgg@hotmail.com> 1526980863 +0800	commit: zc
+71f7680ce0e75428365e0e067b5199d3003f54dd a828428749c3cb2524385dcfa40abbbece34df5a puppetgg <puppetgg@hotmail.com> 1526982610 +0800	commit: word
+a828428749c3cb2524385dcfa40abbbece34df5a 8771785b4d2299a29363058af42fc22a6053b4cd puppetgg <puppetgg@hotmail.com> 1527058632 +0800	commit: Attribute
+8771785b4d2299a29363058af42fc22a6053b4cd 3761843bd1b85f2b2d7e5601584cc98fd7ed62c8 puppetgg <puppetgg@hotmail.com> 1527127994 +0800	commit: Attribute
+3761843bd1b85f2b2d7e5601584cc98fd7ed62c8 b0384475525775d1acd4f900773594d7474182fe puppetgg <puppetgg@hotmail.com> 1527128639 +0800	commit: Attribute
+b0384475525775d1acd4f900773594d7474182fe b58fb9c763002dc5a319f0cd8ede6bcf2d44bc93 puppetgg <puppetgg@hotmail.com> 1527153102 +0800	commit: m

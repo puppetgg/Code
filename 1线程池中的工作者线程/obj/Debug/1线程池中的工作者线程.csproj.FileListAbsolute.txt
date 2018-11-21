@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\1线程池中的工作者线程\bin\Debug\1线程池中的工作者线程.exe.config
+C:\work\code记录\code记录\1线程池中的工作者线程\bin\Debug\1线程池中的工作者线程.exe
+C:\work\code记录\code记录\1线程池中的工作者线程\bin\Debug\1线程池中的工作者线程.pdb
+C:\work\code记录\code记录\1线程池中的工作者线程\obj\Debug\1线程池中的工作者线程.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\1线程池中的工作者线程\obj\Debug\1线程池中的工作者线程.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\1线程池中的工作者线程\obj\Debug\1线程池中的工作者线程.exe
+C:\work\code记录\code记录\1线程池中的工作者线程\obj\Debug\1线程池中的工作者线程.pdb

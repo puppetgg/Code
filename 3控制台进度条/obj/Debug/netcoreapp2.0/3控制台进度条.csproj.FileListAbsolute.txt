@@ -1,0 +1,10 @@
+C:\work\code记录\code记录\3控制台进度条\bin\Debug\netcoreapp2.0\3控制台进度条.deps.json
+C:\work\code记录\code记录\3控制台进度条\bin\Debug\netcoreapp2.0\3控制台进度条.runtimeconfig.json
+C:\work\code记录\code记录\3控制台进度条\bin\Debug\netcoreapp2.0\3控制台进度条.runtimeconfig.dev.json
+C:\work\code记录\code记录\3控制台进度条\bin\Debug\netcoreapp2.0\3控制台进度条.dll
+C:\work\code记录\code记录\3控制台进度条\bin\Debug\netcoreapp2.0\3控制台进度条.pdb
+C:\work\code记录\code记录\3控制台进度条\obj\Debug\netcoreapp2.0\3控制台进度条.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\3控制台进度条\obj\Debug\netcoreapp2.0\3控制台进度条.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\3控制台进度条\obj\Debug\netcoreapp2.0\3控制台进度条.AssemblyInfo.cs
+C:\work\code记录\code记录\3控制台进度条\obj\Debug\netcoreapp2.0\3控制台进度条.dll
+C:\work\code记录\code记录\3控制台进度条\obj\Debug\netcoreapp2.0\3控制台进度条.pdb

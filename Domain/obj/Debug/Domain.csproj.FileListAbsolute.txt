@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\Domain\bin\Debug\Product.hbm.xml
+C:\work\code记录\code记录\Domain\bin\Debug\Domain.dll
+C:\work\code记录\code记录\Domain\bin\Debug\Domain.pdb
+C:\work\code记录\code记录\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\Domain\obj\Debug\Domain.dll
+C:\work\code记录\code记录\Domain\obj\Debug\Domain.pdb
+C:\work\code记录\code记录\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

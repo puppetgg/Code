@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.0">
+<class name="qqq.Base_Employee, qqq" table="Base_Employee" >
+<property name="EmployeeId" column="EmployeeId" type="String" length="50" />
+<property name="UserId" column="UserId" type="String" length="50" />
+<property name="Photograph" column="Photograph" type="String" length="50" />
+<property name="IDCard" column="IDCard" type="String" length="50" />
+<property name="Age" column="Age" type="Int32" length="4" />
+<property name="BankCode" column="BankCode" type="String" length="50" />
+<property name="OfficeCornet" column="OfficeCornet" type="String" length="50" />
+<property name="OfficePhone" column="OfficePhone" type="String" length="50" />
+<property name="OfficeZipCode" column="OfficeZipCode" type="String" length="50" />
+<property name="OfficeAddress" column="OfficeAddress" type="String" length="200" />
+<property name="OfficeFax" column="OfficeFax" type="String" length="50" />
+<property name="Education" column="Education" type="String" length="50" />
+<property name="School" column="School" type="String" length="50" />
+<property name="GraduationDate" column="GraduationDate" type="DateTime" />
+<property name="Major" column="Major" type="String" length="50" />
+<property name="Degree" column="Degree" type="String" length="50" />
+<property name="WorkingDate" column="WorkingDate" type="DateTime" />
+<property name="HomeZipCode" column="HomeZipCode" type="String" length="50" />
+<property name="HomeAddress" column="HomeAddress" type="String" length="200" />
+<property name="HomePhone" column="HomePhone" type="String" length="50" />
+<property name="HomeFax" column="HomeFax" type="String" length="50" />
+<property name="Province" column="Province" type="String" length="50" />
+<property name="City" column="City" type="String" length="50" />
+<property name="Area" column="Area" type="String" length="50" />
+<property name="NativePlace" column="NativePlace" type="String" length="50" />
+<property name="Party" column="Party" type="String" length="50" />
+<property name="Nation" column="Nation" type="String" length="50" />
+<property name="Nationality" column="Nationality" type="String" length="50" />
+<property name="Duty" column="Duty" type="String" length="50" />
+<property name="WorkingProperty" column="WorkingProperty" type="String" length="50" />
+<property name="Competency" column="Competency" type="String" length="50" />
+<property name="EmergencyContact" column="EmergencyContact" type="String" length="50" />
+<property name="IsDimission" column="IsDimission" type="Int32" length="4" />
+<property name="DimissionDate" column="DimissionDate" type="DateTime" />
+<property name="DimissionCause" column="DimissionCause" type="String" length="200" />
+<property name="DimissionWhither" column="DimissionWhither" type="String" length="50" />
+</class>
+
+</hibernate-mapping>

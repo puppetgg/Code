@@ -1,0 +1,14 @@
+C:\work\code记录\code记录\ENFirst\bin\Debug\ENFirst.exe.config
+C:\work\code记录\code记录\ENFirst\bin\Debug\ENFirst.exe
+C:\work\code记录\code记录\ENFirst\bin\Debug\ENFirst.pdb
+C:\work\code记录\code记录\ENFirst\bin\Debug\EntityFramework.dll
+C:\work\code记录\code记录\ENFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\work\code记录\code记录\ENFirst\bin\Debug\EntityFramework.xml
+C:\work\code记录\code记录\ENFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\work\code记录\code记录\ENFirst\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\work\code记录\code记录\ENFirst\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\work\code记录\code记录\ENFirst\obj\Debug\ENFirst.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\ENFirst\obj\Debug\ENFirst.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\ENFirst\obj\Debug\ENFirst.csproj.CopyComplete
+C:\work\code记录\code记录\ENFirst\obj\Debug\ENFirst.exe
+C:\work\code记录\code记录\ENFirst\obj\Debug\ENFirst.pdb

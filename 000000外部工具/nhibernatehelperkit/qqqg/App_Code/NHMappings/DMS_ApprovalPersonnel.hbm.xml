@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.0">
+<class name="qqqg.DMS_ApprovalPersonnel, qqqg" table="DMS_ApprovalPersonnel" >
+<id name="ID" column="ID" type="Int32" unsaved-value="0">
+<generator class="identity" />
+</id>
+<property name="DocumentInfoID" column="DocumentInfoID" type="String" length="50" />
+<property name="DataJosn" column="DataJosn" type="String" length="-1" />
+<property name="CreateDate" column="CreateDate" type="DateTime" />
+</class>
+
+</hibernate-mapping>

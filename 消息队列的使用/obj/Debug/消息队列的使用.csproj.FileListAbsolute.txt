@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\消息队列的使用\bin\Debug\消息队列的使用.exe.config
+C:\work\code记录\code记录\消息队列的使用\bin\Debug\消息队列的使用.exe
+C:\work\code记录\code记录\消息队列的使用\bin\Debug\消息队列的使用.pdb
+C:\work\code记录\code记录\消息队列的使用\bin\Debug\Newtonsoft.Json.dll
+C:\work\code记录\code记录\消息队列的使用\bin\Debug\StackExchange.Redis.dll
+C:\work\code记录\code记录\消息队列的使用\bin\Debug\StackExchange.Redis.xml
+C:\work\code记录\code记录\消息队列的使用\obj\Debug\消息队列的使用.csprojAssemblyReference.cache
+C:\work\code记录\code记录\消息队列的使用\obj\Debug\消息队列的使用.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\消息队列的使用\obj\Debug\消息队列的使用.csproj.CopyComplete
+C:\work\code记录\code记录\消息队列的使用\obj\Debug\消息队列的使用.exe
+C:\work\code记录\code记录\消息队列的使用\obj\Debug\消息队列的使用.pdb

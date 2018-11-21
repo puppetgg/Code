@@ -1,0 +1,30 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@Model.Message</h3>
+
+<script src="~/js/JQury.js"></script>
+<script>
+    $(() => {
+
+        console.log('==================');
+        fun();
+
+    })
+
+    var fun = () => {
+        $.post("Error", '', (data) => {
+
+
+            conosle.log('---------------');
+            console.log(data);
+        })
+    }
+
+
+</script>
+<p>Use this area to provide additional information.</p>
+<p>这是一个p标签</p>

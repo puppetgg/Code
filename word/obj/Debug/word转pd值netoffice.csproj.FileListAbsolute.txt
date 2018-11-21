@@ -1,0 +1,8 @@
+C:\work\测试论证\Task编程\word\bin\Debug\word.exe.config
+C:\work\code记录\code记录\word\bin\Debug\word.exe.config
+C:\work\code记录\code记录\word\bin\Debug\word.exe
+C:\work\code记录\code记录\word\bin\Debug\word.pdb
+C:\work\code记录\code记录\word\obj\Debug\word转pd值netoffice.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\word\obj\Debug\word转pd值netoffice.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\word\obj\Debug\word.exe
+C:\work\code记录\code记录\word\obj\Debug\word.pdb

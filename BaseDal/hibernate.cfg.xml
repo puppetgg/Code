@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">
+  <session-factory name="NHibernate.Test">
+    <property name="connection.driver_class">NHibernate.Driver.SqlClientDriver</property>
+    <property name="connection.connection_string">server=10.18.105.189;database=FRDRM_DB;uid=sa;pwd=Password01!;</property>
+    <!--<property name="connection.connection_string">server=.;database=xnpms;uid=sa;pwd=111;</property>-->
+    <property name="adonet.batch_size">60</property>
+    <property name="show_sql">false</property>
+    <property name="dialect">NHibernate.Dialect.MsSql2005Dialect</property>
+    <!--<property name="use_outer_join">true</property>-->
+    <property name="command_timeout">10</property>
+    <property name="query.substitutions">true 1, false 0, yes 'Y', no 'N'</property>        
+    <mapping assembly="BaseModel" />
+  </session-factory>
+  
+  
+  
+  
+</hibernate-configuration>

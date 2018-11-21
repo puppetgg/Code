@@ -1,0 +1,10 @@
+C:\work\code记录\code记录\1异步改写\obj\Debug\_1异步改写.Form1.resources
+C:\work\code记录\code记录\1异步改写\obj\Debug\_1异步改写.Properties.Resources.resources
+C:\work\code记录\code记录\1异步改写\obj\Debug\1异步改写.csproj.GenerateResource.cache
+C:\work\code记录\code记录\1异步改写\obj\Debug\1异步改写.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\1异步改写\bin\Debug\1异步改写.exe.config
+C:\work\code记录\code记录\1异步改写\bin\Debug\1异步改写.exe
+C:\work\code记录\code记录\1异步改写\bin\Debug\1异步改写.pdb
+C:\work\code记录\code记录\1异步改写\obj\Debug\1异步改写.exe
+C:\work\code记录\code记录\1异步改写\obj\Debug\1异步改写.pdb
+C:\work\code记录\code记录\1异步改写\obj\Debug\1异步改写.csprojResolveAssemblyReference.cache

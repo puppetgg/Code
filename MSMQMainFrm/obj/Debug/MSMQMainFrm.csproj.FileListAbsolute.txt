@@ -1,0 +1,10 @@
+C:\work\code记录\code记录\MSMQMainFrm\bin\Debug\MSMQMainFrm.exe.config
+C:\work\code记录\code记录\MSMQMainFrm\bin\Debug\MSMQMainFrm.exe
+C:\work\code记录\code记录\MSMQMainFrm\bin\Debug\MSMQMainFrm.pdb
+C:\work\code记录\code记录\MSMQMainFrm\obj\Debug\MSMQMainFrm.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\MSMQMainFrm\obj\Debug\MSMQMainFrm.Form1.resources
+C:\work\code记录\code记录\MSMQMainFrm\obj\Debug\MSMQMainFrm.Properties.Resources.resources
+C:\work\code记录\code记录\MSMQMainFrm\obj\Debug\MSMQMainFrm.csproj.GenerateResource.cache
+C:\work\code记录\code记录\MSMQMainFrm\obj\Debug\MSMQMainFrm.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\MSMQMainFrm\obj\Debug\MSMQMainFrm.exe
+C:\work\code记录\code记录\MSMQMainFrm\obj\Debug\MSMQMainFrm.pdb

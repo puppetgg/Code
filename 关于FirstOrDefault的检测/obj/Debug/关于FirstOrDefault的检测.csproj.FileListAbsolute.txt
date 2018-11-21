@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\关于FirstOrDefault的检测\bin\Debug\关于FirstOrDefault的检测.exe.config
+C:\work\code记录\code记录\关于FirstOrDefault的检测\bin\Debug\关于FirstOrDefault的检测.exe
+C:\work\code记录\code记录\关于FirstOrDefault的检测\bin\Debug\关于FirstOrDefault的检测.pdb
+C:\work\code记录\code记录\关于FirstOrDefault的检测\obj\Debug\关于FirstOrDefault的检测.csprojAssemblyReference.cache
+C:\work\code记录\code记录\关于FirstOrDefault的检测\obj\Debug\关于FirstOrDefault的检测.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\关于FirstOrDefault的检测\obj\Debug\关于FirstOrDefault的检测.exe
+C:\work\code记录\code记录\关于FirstOrDefault的检测\obj\Debug\关于FirstOrDefault的检测.pdb

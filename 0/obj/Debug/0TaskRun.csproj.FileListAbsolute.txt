@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\0\bin\Debug\0.exe.config
+C:\work\code记录\code记录\0\bin\Debug\0.exe
+C:\work\code记录\code记录\0\bin\Debug\0.pdb
+C:\work\code记录\code记录\0\obj\Debug\0TaskRun.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\0\obj\Debug\0.exe
+C:\work\code记录\code记录\0\obj\Debug\0.pdb
+C:\work\code记录\code记录\0\obj\Debug\0TaskRun.csprojResolveAssemblyReference.cache

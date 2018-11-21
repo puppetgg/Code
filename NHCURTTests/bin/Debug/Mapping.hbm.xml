@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="NHCURT" namespace="NHCURT">
+  <!--权限表-->
+  <class	name="NHCURT.Manage_Type,NHCURT">
+    <id	name="Id" column="Id">
+    </id>
+    <property name="TypeName"                      />
+    <property name="TypeCode"                       />
+    <property name="ParentId"                     />
+    <property name="Path"                           />
+    <property name="AdminName"                  />
+
+    <property name="AdminAccount"                />
+    <property name="ApproverName"                    />
+    <property name="OrderNo"                  />
+    <property name="Remark"                />
+    <property name="IsValid"                    />
+
+    <property name="CreateDate"                       />
+    <property name="UpdateDate"            />
+    <property name="CreateUser"                   />
+    <property name="UpdateUser"                   />
+
+  </class>
+</hibernate-mapping>

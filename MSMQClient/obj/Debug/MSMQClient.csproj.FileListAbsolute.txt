@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\MSMQClient\obj\Debug\MSMQClient.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\MSMQClient\bin\Debug\MSMQClient.exe.config
+C:\work\code记录\code记录\MSMQClient\bin\Debug\MSMQClient.exe
+C:\work\code记录\code记录\MSMQClient\bin\Debug\MSMQClient.pdb
+C:\work\code记录\code记录\MSMQClient\obj\Debug\MSMQClient.exe
+C:\work\code记录\code记录\MSMQClient\obj\Debug\MSMQClient.pdb
+C:\work\code记录\code记录\MSMQClient\obj\Debug\MSMQClient.csprojResolveAssemblyReference.cache

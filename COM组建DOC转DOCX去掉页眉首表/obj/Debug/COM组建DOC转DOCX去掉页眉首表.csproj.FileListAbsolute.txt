@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\COM组建DOC转DOCX去掉页眉首表\bin\Debug\COM组建DOC转DOCX去掉页眉首表.exe.config
+C:\work\code记录\code记录\COM组建DOC转DOCX去掉页眉首表\bin\Debug\COM组建DOC转DOCX去掉页眉首表.exe
+C:\work\code记录\code记录\COM组建DOC转DOCX去掉页眉首表\bin\Debug\COM组建DOC转DOCX去掉页眉首表.pdb
+C:\work\code记录\code记录\COM组建DOC转DOCX去掉页眉首表\obj\Debug\COM组建DOC转DOCX去掉页眉首表.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\COM组建DOC转DOCX去掉页眉首表\obj\Debug\COM组建DOC转DOCX去掉页眉首表.exe
+C:\work\code记录\code记录\COM组建DOC转DOCX去掉页眉首表\obj\Debug\COM组建DOC转DOCX去掉页眉首表.pdb
+C:\work\code记录\code记录\COM组建DOC转DOCX去掉页眉首表\obj\Debug\COM组建DOC转DOCX去掉页眉首表.csprojAssemblyReference.cache

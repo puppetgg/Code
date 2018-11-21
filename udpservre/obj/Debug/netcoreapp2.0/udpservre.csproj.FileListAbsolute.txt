@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\udpservre\bin\Debug\netcoreapp2.0\udpservre.deps.json
+C:\work\code记录\code记录\udpservre\bin\Debug\netcoreapp2.0\udpservre.runtimeconfig.json
+C:\work\code记录\code记录\udpservre\bin\Debug\netcoreapp2.0\udpservre.runtimeconfig.dev.json
+C:\work\code记录\code记录\udpservre\bin\Debug\netcoreapp2.0\udpservre.dll
+C:\work\code记录\code记录\udpservre\bin\Debug\netcoreapp2.0\udpservre.pdb
+C:\work\code记录\code记录\udpservre\obj\Debug\netcoreapp2.0\udpservre.csprojAssemblyReference.cache
+C:\work\code记录\code记录\udpservre\obj\Debug\netcoreapp2.0\udpservre.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\udpservre\obj\Debug\netcoreapp2.0\udpservre.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\udpservre\obj\Debug\netcoreapp2.0\udpservre.AssemblyInfo.cs
+C:\work\code记录\code记录\udpservre\obj\Debug\netcoreapp2.0\udpservre.dll
+C:\work\code记录\code记录\udpservre\obj\Debug\netcoreapp2.0\udpservre.pdb

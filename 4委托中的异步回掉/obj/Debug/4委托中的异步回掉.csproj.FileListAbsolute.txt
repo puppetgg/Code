@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\4委托中的异步回掉\bin\Debug\4委托中的异步回掉.exe.config
+C:\work\code记录\code记录\4委托中的异步回掉\bin\Debug\4委托中的异步回掉.exe
+C:\work\code记录\code记录\4委托中的异步回掉\bin\Debug\4委托中的异步回掉.pdb
+C:\work\code记录\code记录\4委托中的异步回掉\obj\Debug\4委托中的异步回掉.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\4委托中的异步回掉\obj\Debug\4委托中的异步回掉.exe
+C:\work\code记录\code记录\4委托中的异步回掉\obj\Debug\4委托中的异步回掉.pdb

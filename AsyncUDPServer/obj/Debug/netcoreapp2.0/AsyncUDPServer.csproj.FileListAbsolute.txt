@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\AsyncUDPServer\bin\Debug\netcoreapp2.0\AsyncUDPServer.deps.json
+C:\work\code记录\code记录\AsyncUDPServer\bin\Debug\netcoreapp2.0\AsyncUDPServer.runtimeconfig.json
+C:\work\code记录\code记录\AsyncUDPServer\bin\Debug\netcoreapp2.0\AsyncUDPServer.runtimeconfig.dev.json
+C:\work\code记录\code记录\AsyncUDPServer\bin\Debug\netcoreapp2.0\AsyncUDPServer.dll
+C:\work\code记录\code记录\AsyncUDPServer\bin\Debug\netcoreapp2.0\AsyncUDPServer.pdb
+C:\work\code记录\code记录\AsyncUDPServer\obj\Debug\netcoreapp2.0\AsyncUDPServer.csprojAssemblyReference.cache
+C:\work\code记录\code记录\AsyncUDPServer\obj\Debug\netcoreapp2.0\AsyncUDPServer.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\AsyncUDPServer\obj\Debug\netcoreapp2.0\AsyncUDPServer.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\AsyncUDPServer\obj\Debug\netcoreapp2.0\AsyncUDPServer.AssemblyInfo.cs
+C:\work\code记录\code记录\AsyncUDPServer\obj\Debug\netcoreapp2.0\AsyncUDPServer.dll
+C:\work\code记录\code记录\AsyncUDPServer\obj\Debug\netcoreapp2.0\AsyncUDPServer.pdb

@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\2线程池中的工作者线程\bin\Debug\netcoreapp2.0\2线程池中的工作者线程.deps.json
+C:\work\code记录\code记录\2线程池中的工作者线程\bin\Debug\netcoreapp2.0\2线程池中的工作者线程.runtimeconfig.json
+C:\work\code记录\code记录\2线程池中的工作者线程\bin\Debug\netcoreapp2.0\2线程池中的工作者线程.runtimeconfig.dev.json
+C:\work\code记录\code记录\2线程池中的工作者线程\bin\Debug\netcoreapp2.0\2线程池中的工作者线程.dll
+C:\work\code记录\code记录\2线程池中的工作者线程\bin\Debug\netcoreapp2.0\2线程池中的工作者线程.pdb
+C:\work\code记录\code记录\2线程池中的工作者线程\obj\Debug\netcoreapp2.0\2线程池中的工作者线程.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\2线程池中的工作者线程\obj\Debug\netcoreapp2.0\2线程池中的工作者线程.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\2线程池中的工作者线程\obj\Debug\netcoreapp2.0\2线程池中的工作者线程.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\2线程池中的工作者线程\obj\Debug\netcoreapp2.0\2线程池中的工作者线程.AssemblyInfo.cs
+C:\work\code记录\code记录\2线程池中的工作者线程\obj\Debug\netcoreapp2.0\2线程池中的工作者线程.dll
+C:\work\code记录\code记录\2线程池中的工作者线程\obj\Debug\netcoreapp2.0\2线程池中的工作者线程.pdb

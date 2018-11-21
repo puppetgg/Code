@@ -1,0 +1,10 @@
+D:\工作项目\Code\IV.CTP版\bin\Debug\IV.CTP版.exe.config
+D:\工作项目\Code\IV.CTP版\bin\Debug\IV.CTP版.exe
+D:\工作项目\Code\IV.CTP版\bin\Debug\IV.CTP版.pdb
+D:\工作项目\Code\IV.CTP版\obj\Debug\IV.CTP版.csprojAssemblyReference.cache
+D:\工作项目\Code\IV.CTP版\obj\Debug\IV.CTP版.Form1.resources
+D:\工作项目\Code\IV.CTP版\obj\Debug\IV.CTP版.Properties.Resources.resources
+D:\工作项目\Code\IV.CTP版\obj\Debug\IV.CTP版.csproj.GenerateResource.cache
+D:\工作项目\Code\IV.CTP版\obj\Debug\IV.CTP版.csproj.CoreCompileInputs.cache
+D:\工作项目\Code\IV.CTP版\obj\Debug\IV.CTP版.exe
+D:\工作项目\Code\IV.CTP版\obj\Debug\IV.CTP版.pdb

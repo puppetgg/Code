@@ -1,0 +1,12 @@
+C:\work\测试论证\Task编程\简单测试\bin\Debug\简单测试.exe.config
+C:\work\测试论证\Task编程\简单测试\bin\Debug\简单测试.exe
+C:\work\测试论证\Task编程\简单测试\bin\Debug\简单测试.pdb
+C:\work\测试论证\Task编程\简单测试\obj\Debug\简单测试.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\简单测试\obj\Debug\简单测试.exe
+C:\work\测试论证\Task编程\简单测试\obj\Debug\简单测试.pdb
+C:\work\code记录\code记录\简单测试\bin\Debug\简单测试.exe.config
+C:\work\code记录\code记录\简单测试\bin\Debug\简单测试.exe
+C:\work\code记录\code记录\简单测试\bin\Debug\简单测试.pdb
+C:\work\code记录\code记录\简单测试\obj\Debug\简单测试.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\简单测试\obj\Debug\简单测试.exe
+C:\work\code记录\code记录\简单测试\obj\Debug\简单测试.pdb

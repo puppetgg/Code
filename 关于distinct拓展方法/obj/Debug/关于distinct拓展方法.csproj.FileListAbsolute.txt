@@ -1,0 +1,12 @@
+C:\work\测试论证\Task编程\关于distinct拓展方法\bin\Debug\关于distinct拓展方法.exe.config
+C:\work\测试论证\Task编程\关于distinct拓展方法\bin\Debug\关于distinct拓展方法.exe
+C:\work\测试论证\Task编程\关于distinct拓展方法\bin\Debug\关于distinct拓展方法.pdb
+C:\work\测试论证\Task编程\关于distinct拓展方法\obj\Debug\关于distinct拓展方法.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\关于distinct拓展方法\obj\Debug\关于distinct拓展方法.exe
+C:\work\测试论证\Task编程\关于distinct拓展方法\obj\Debug\关于distinct拓展方法.pdb
+C:\work\code记录\code记录\关于distinct拓展方法\bin\Debug\关于distinct拓展方法.exe.config
+C:\work\code记录\code记录\关于distinct拓展方法\bin\Debug\关于distinct拓展方法.exe
+C:\work\code记录\code记录\关于distinct拓展方法\bin\Debug\关于distinct拓展方法.pdb
+C:\work\code记录\code记录\关于distinct拓展方法\obj\Debug\关于distinct拓展方法.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\关于distinct拓展方法\obj\Debug\关于distinct拓展方法.exe
+C:\work\code记录\code记录\关于distinct拓展方法\obj\Debug\关于distinct拓展方法.pdb

@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\AsyncNetStand\bin\Debug\AsyncNetStand.exe.config
+C:\work\code记录\code记录\AsyncNetStand\bin\Debug\AsyncNetStand.exe
+C:\work\code记录\code记录\AsyncNetStand\bin\Debug\AsyncNetStand.pdb
+C:\work\code记录\code记录\AsyncNetStand\obj\Debug\AsyncNetStand.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\AsyncNetStand\obj\Debug\AsyncNetStand.exe
+C:\work\code记录\code记录\AsyncNetStand\obj\Debug\AsyncNetStand.pdb

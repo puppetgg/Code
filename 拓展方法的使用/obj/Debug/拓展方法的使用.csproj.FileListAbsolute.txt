@@ -1,0 +1,17 @@
+C:\work\测试论证\Task编程\拓展方法的使用\bin\Debug\拓展方法的使用.exe.config
+C:\work\测试论证\Task编程\拓展方法的使用\bin\Debug\拓展方法的使用.exe
+C:\work\测试论证\Task编程\拓展方法的使用\bin\Debug\拓展方法的使用.pdb
+C:\work\测试论证\Task编程\拓展方法的使用\obj\Debug\拓展方法的使用.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\拓展方法的使用\obj\Debug\拓展方法的使用.Properties.Resources.resources
+C:\work\测试论证\Task编程\拓展方法的使用\obj\Debug\拓展方法的使用.csproj.GenerateResource.Cache
+C:\work\测试论证\Task编程\拓展方法的使用\obj\Debug\拓展方法的使用.exe
+C:\work\测试论证\Task编程\拓展方法的使用\obj\Debug\拓展方法的使用.pdb
+C:\work\code记录\code记录\拓展方法的使用\bin\Debug\拓展方法的使用.exe.config
+C:\work\code记录\code记录\拓展方法的使用\bin\Debug\拓展方法的使用.exe
+C:\work\code记录\code记录\拓展方法的使用\bin\Debug\拓展方法的使用.pdb
+C:\work\code记录\code记录\拓展方法的使用\obj\Debug\拓展方法的使用.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\拓展方法的使用\obj\Debug\拓展方法的使用.Properties.Resources.resources
+C:\work\code记录\code记录\拓展方法的使用\obj\Debug\拓展方法的使用.csproj.GenerateResource.cache
+C:\work\code记录\code记录\拓展方法的使用\obj\Debug\拓展方法的使用.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\拓展方法的使用\obj\Debug\拓展方法的使用.exe
+C:\work\code记录\code记录\拓展方法的使用\obj\Debug\拓展方法的使用.pdb

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>NetOffice.Access</id>
+    <version>$version$</version>
+    <title>NetOffice.Access</title>
+    <authors>Sebastian Lange, Jozef Izso</authors>
+    <owners>Jozef Izso</owners>
+    <licenseUrl>https://raw.githubusercontent.com/NetOfficeFw/NetOffice/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/NetOfficeFw/NetOffice</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/NetOfficeFw/NetOffice-Assets/master/NetOfficeFwLogo_256x256.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NetOffice Access API library for NetOffice based solutions.
+
+NetOffice for Access is a set of libraries for building add-ins, extending and automating Microsoft Access application.</description>
+    <summary>NetOffice for Access - build add-ins, extend and automate Microsoft Access application.</summary>
+    <releaseNotes />
+    <copyright>Copyright © 2011-2016 Sebastian Lange, Copyright (c) 2015-2016 Jozef Izso</copyright>
+    <tags>netoffice office ms-office access interop wrapper net40 net45 vsto</tags>
+    <dependencies>
+      <dependency id="NetOffice.Core" version="$version$" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\out\$configuration$\AccessApi\AccessApi.dll" target="lib\net40" />
+    <file src="..\out\$configuration$\AccessApi\AccessApi.pdb" target="lib\net40" />
+    <file src="..\out\$configuration$\AccessApi\AccessApi.xml" target="lib\net40" />
+
+    <file src="..\out\$configuration$\DAOApi\DAOApi.dll" target="lib\net40" />
+    <file src="..\out\$configuration$\DAOApi\DAOApi.pdb" target="lib\net40" />
+    <file src="..\out\$configuration$\DAOApi\DAOApi.xml" target="lib\net40" />
+
+    <file src="..\out\$configuration$\ADODBApi\ADODBApi.dll" target="lib\net40" />
+    <file src="..\out\$configuration$\ADODBApi\ADODBApi.pdb" target="lib\net40" />
+    <file src="..\out\$configuration$\ADODBApi\ADODBApi.xml" target="lib\net40" />
+
+    <file src="..\out\$configuration$\OWC10Api\OWC10Api.dll" target="lib\net40" />
+    <file src="..\out\$configuration$\OWC10Api\OWC10Api.pdb" target="lib\net40" />
+    <file src="..\out\$configuration$\OWC10Api\OWC10Api.xml" target="lib\net40" />
+
+    <file src="..\out\$configuration$\MSDATASRCApi\MSDATASRCApi.dll" target="lib\net40" />
+    <file src="..\out\$configuration$\MSDATASRCApi\MSDATASRCApi.pdb" target="lib\net40" />
+    <file src="..\out\$configuration$\MSDATASRCApi\MSDATASRCApi.xml" target="lib\net40" />
+
+    <file src="..\out\$configuration$\MSComctlLibApi\MSComctlLibApi.dll" target="lib\net40" />
+    <file src="..\out\$configuration$\MSComctlLibApi\MSComctlLibApi.pdb" target="lib\net40" />
+    <file src="..\out\$configuration$\MSComctlLibApi\MSComctlLibApi.xml" target="lib\net40" />
+
+    <file src="tools\NetOffice.Access.install.ps1" target="tools\install.ps1" />
+
+    <file src="..\Source\Access\**\*.cs" target="src" />
+
+    <file src="..\LICENSE.txt" target="LICENSE.txt" />
+  </files>
+</package>

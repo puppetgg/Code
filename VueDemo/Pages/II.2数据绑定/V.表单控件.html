@@ -1,0 +1,643 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title> - VueDemo</title>
+</head>
+
+<body style="color: rgb(182, 170, 123);background-color: rgb(56, 56, 56) !important" ;>
+
+
+    <script src="Z:\CodeDemo\VueDemo\wwwroot\js\vue.js"></script>
+
+    <div id="app">
+
+        <vvv>
+            <a v-on:click.stop='doThis'></a>
+            <form v-on:submit.prevent="onSubmit"></form> // 阻止表单默认提交事件
+            <form v-on:submit.stop.prevent="onSubmit"></form> // 阻止默认提交事件且阻止冒泡
+            <form v-on:submit.stop.prevent></form> // 也可以只有修饰符，并不绑定事件
+        </vvv>>
+
+        <div v-on:click="saySelf('click from inner')" v-on:click.self="saySelf('click from self')">
+
+            <button v-on:click="saySelf('button click')">button</button>
+
+            <button v-on:click.stop="saySelf('just button click')">button</button>
+        </div>
+
+
+        <input v-on:keyup.13="submit" />
+        <br/>>// 监听 input 的输入，当输入回车时触发 Submit 函 数（回车的 keycode 值为 13），用于处理常见的用户输入完直接按回车键提交）
+    </div>
+
+
+    <script>
+        var vm = new Vue({
+            el: '#app',
+            methods: {　　
+                saySelf(msg) {　　
+                    alert(msg);　　
+                },
+                submit: () => alert('按下回车键'),
+
+            }
+        })
+    </script>
+
+
+
+
+    <br/>----------------------事件修饰符-----------------------------------------
+
+    <!-- <div id="app">
+
+        挂载div
+    </div>
+
+
+    <template v-for="item in items">
+
+   
+
+        <p>{{item}}
+            <p>
+    </template>
+    <script>
+        var vm = new Vue({
+            el: '#app',
+
+            data: {
+                items: [
+                    'A',
+                    'B'
+                ],
+                yes: false
+            }
+
+
+        })
+    </script>
+ -->
+
+
+    <br/>------------------2.3.4　template标签用法--------------------------------------------------
+    <!-- <div id="app">
+        <h1 v-if="yes">YES</h1>
+        <h1 v-if="no">NO</h1>
+        <h1 v-show="yes">YESShow</h1>
+        <h1 v-show="no">NOShow</h1>
+
+        <select v-model="selected">
+            <option v-for="v in options" v-bind:value="v">选项{{v}}</option>
+        </select>
+
+        <br/>
+        <input type="button" value="增加li" v-on:click="add" />
+        <ul>
+
+            <li v-for="v in items">
+                xxxx {{v.title}}
+            </li>
+        </ul>
+
+        <br/>
+        <li v-for="(value,key) in objectDemo">
+            ## {{key}}$$ - : {{value}}
+        </li>
+    </div>
+    <script>
+        var vm = new Vue({
+            el: '#app',
+            data: {
+                options: ['A', 'B', 'C', 'D'],
+                selected: 'C',
+                yes: true,
+                no: false,
+                objectDemo: {　　　
+                    a: 'a-value',
+                    　　　b: 'b-value',
+                    　　　c: 'c-value',
+                    　　
+                },
+                items: [　　　{
+                    title: 'title-1',
+                    description: 'description-1'
+                }, 　　　 {
+                    title: 'title-2',
+                    description: 'description-2'
+                }　]
+            },
+            methods: {
+                add: function () {
+                    var aa = this;
+                    aa.items.$set(0, {
+                        title: 'title-changed'
+                    })
+                },
+            }
+        });
+    </script> -->
+
+    <br/>-------------------------列表渲染---------------------------------
+    <!-- 
+    <div id="app">
+        <h1 v-if="yes">YES</h1>
+        <h1 v-if="no">NO</h1>
+        <h1 v-show="yes">YESShow</h1>
+        <h1 v-show="no">NOShow</h1>
+
+    </div>
+    <script>
+        var vm = new Vue({
+            el: '#app',
+            data: {
+                yes: true,
+                no: false
+            }
+        });
+    </script> -->
+
+
+    <br/>-------------------------条件渲染---------------------------------
+
+    <!-- <div id="app">
+        <div :style="alertStyle">
+            123 央视ziti
+        </div>
+    </div>
+    <script>
+        var vm = new Vue({
+            el: "#app",
+            data: {　　
+                alertStyle: {
+                    fontSize: '50px',
+                    color: 'red'
+                }
+            }
+
+
+        })
+    </script> -->
+
+    <br/>-------------------------内联样式---------------------------------
+
+    <!-- <div id="app">
+        <p> Class与Style绑定</p>
+        <div class="tab" :class="{'active' : active , 'unactive' : !active}">测试
+        </div>
+
+
+        <p> ② 数组语法：v-bind:class 也接受数组作为参数。</p>
+        <div v-bind:class="[classA, classB]">vm 实例中需要包含
+            <br/>渲染结果为： class="class-a class-b"
+
+        </div>
+
+        <div>。 也可以使用三元表达式切换数组中的 class，</div>
+        <div v-bind:class="[classA, isB ? classB :'']">
+            。如果 vm.isB = false, 则渲染结果为 div v-bind:class="class-a" div。
+        </div>
+
+    </div>
+    <script>
+        var vm = new Vue({
+            el: "#app",
+            data: {　　
+                isB: true,
+                classA: 'class-a',
+                　　classB: 'class-b',
+                active: true　
+            }
+
+
+        })
+    </script> -->
+
+    <br/>--------------------------------------------------------------------
+    <!-- <div id="app">
+        <p> ① lazy 默认情况下，v-model 在 input 事件中同步输入框值与数据，加 lazy 属性后从会改到在 change 事件中同步。</p>
+        <input type="text" v-model.lazy="inputtext" />
+        <p> lazy ur input is {{inputtext}}</p>
+        <p> ② number 会自动将用户输入转为 Number 类型，如果原值转换结果为 NaN 则返回原值。</p>
+        <input v-model.number="age" />
+        <p>转换后的数字{{age}}</p>
+    </div>
+
+    <script>
+        var vm = new Vue({
+            el: '#app',
+            data: {
+                age: 0,
+                inputtext: '',
+            }
+        })
+    </script>
+    -->
+    <br/> ---------------------------参数设置------------------------------------
+    <!-- <br/> ．Checkbox
+    <input type="checkbox" v-model="checked" v-bind:true-value="a" v-bind:false-value="b"> 选中：vm.checked == vm.a　　// -> true 未选中：vm.checked == vm.b　// -> true 2．Radio
+    <input type="radio" v-model="checked" , v-bind:value="a"> 选中 : vm.checked == vm.a　// -> true 3．Select Options
+    <select v-model="selected">
+
+        <option v-bind:value="{ number: 123 }">123</option>
+    </select>
+
+
+    <script>
+        var vm = new Vue({
+
+        })
+    </script> -->
+
+    <br/> ---------------------------绑定value------------------------------------
+
+    <!-- <div id="app">
+        <p>
+            <input type="text" v-model="message" />
+
+        </p>
+        <p>
+            ur input text is :{{message}}
+        </p>
+        2．Radio 单选框示例：
+        <label>
+            <input type="radio" value="man" v-model="gender">男
+        </label>
+        <label>
+            <input type="radio" value="falman" v-model="gender">女
+        </label>
+        <p>u selected is {{gender}}</p>
+        3．Checkbox Checkbox 分两种情况：单个勾选框和多个勾选框。 单个勾选框，v-model 即为布尔值，此时 input 的 value 并不影响 v-model 的值。
+        </br>
+        <label>
+            <input type="checkbox" v-model="checked" />
+            <span>checked : {{ checked }}</span>
+        </label>
+
+        多个勾选框，v-model 使用相同的属性名称，且属性为数组。
+        <label>
+            <input type="checkbox" value="1" v-model=" multiChecked">1</lable>
+            <label>
+                <input type="checkbox" value="2" v-model=" multiChecked">2</lable>
+                <label>
+                    <input type="checkbox" value="3" v-model=" multiChecked">3</lable>
+                    <p>MultiChecked: {{ multiChecked}}</p>
+
+
+                    4．Select 同 Checkbox 元素一样，Select 也分单选和多选两种，多选的时候也需要绑定到一个数组。 单选：</br>
+
+
+                    <select v-model="selected">
+                        <option>A</option>
+
+                        <option>B</option>
+
+                        <option>C</option>
+                    </select>
+                    <span>Selected: {{ selected }}</span>
+                    －－－－－－－－－－－－－－－－－－－－－－－－－－
+                    <select v-model="multiSelected" multiple>
+
+                        <option selected>A</option>
+
+                        <option>B</option>
+
+                        <option>C</option>
+                    </select>
+                    <br>
+                    <span>MultiSelected: {{ multiSelected.join('|') }}</span>
+
+                    ---------------------------------------------
+                
+
+    </div>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            　data: {　　
+                message: 'a',
+                gender: '',
+                checked: '',
+                multiChecked: [],
+                selected: 'B',
+                multiSelected: []　
+            }
+        });
+    </script> -->
+
+
+    <br/> ----------------------------------表单控件--------------------------------------
+    <!-- <div id="app">
+        <p>&yen;{{price}}</p> // Gavin
+
+
+    </div>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            data: {　　
+                cents: 100,
+            },
+            computed: {　　
+                price: {
+                    set: function (val) {
+                        this.cents = val * 100;
+                    },
+                    get: function () {
+                        return (this.cents / 100).toFixed(2);
+                    }
+                }
+            }
+        });
+    </script> -->
+
+
+    <br/> ----------------------------------计算属性--------------------------------------
+
+    <!-- <div id="app">
+        <p>{{ firstName }}</p> // Gavin
+        <p>{{ lastName }}</p> // CLY
+        <p>{{ fullName }}</p> // Gavin CLY
+
+    </div>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            data: {　　
+                firstName: 'Gavin',
+                lastName: 'CLY'　
+            },
+            computed: {　　
+                fullName: function () {　　　 // this 指向 vm 实例
+                    　　　
+                    return this.firstName + ' ' + this.lastName　　
+                }　
+            }
+        });
+    </script> -->
+
+
+    <br/> ----------------------------------计算属性--------------------------------------
+
+    <!-- <div id="app">
+        <h1 v-on: click='doclick'>指令{{a}}</h1>
+
+    </div>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            data: {
+                a: 'abc',
+                b: null,
+                c: 'c',
+                attr: 123,
+                ap: 'Vue分隔符'
+            },
+
+            methods: {
+                doclick: function () {
+                    alert('click');
+                }
+            }
+        });
+
+        Vue.filter('ti', function (value) {
+            return 'Abc';
+        })
+    </script> -->
+    <br/> ----------------------------------指令--------------------------------------
+
+    <!-- <div id="app">
+        <h1>字符串首字符转化成大写{{a|ti(a)}}</h1>
+      
+
+    </div>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            data: {
+                a: 'abc',
+                b: null,
+                c: 'c',
+                attr: 123,
+                ap: 'Vue分隔符'
+            },
+            // created: function () {　
+            //     var str = 'vue';
+            //     var arr = str.split('');
+            //     alert('split:' + arr);　
+            // },
+            methods: {
+                // ti: function (val) {
+                //     return 'Abc';
+                // }
+            }
+        });
+
+        Vue.filter('ti', function (value) {
+            return 'Abc';
+        })
+    </script> -->
+    <br/> ----------------------------------过滤器--------------------------------------
+
+    <!-- 
+    <div id="app">
+        <h1>{{a==null?'a是空值':a}}</h1>
+        <h1>{{!b&&'if语句简写'}}</h1>
+        <h1>{{c&&'二元表达式'}}</h1>
+        <h1>算术运算{{attr+23}}</h1>
+        <h1>{{ap.split('').join('|')}}</h1>
+    </div>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            data: {
+                a: '三元表达式',
+                b: null,
+                c: 'c',
+                attr: 123,
+                ap: 'Vue分隔符'
+            },
+            created: function () {　
+                var str='vue';
+                var arr= str.split('');
+                alert('split:'+arr);　
+            },
+
+        });
+    </script> -->
+
+
+    <br/> ----------------------------------绑定表达式--------------------------------------
+
+    <!-- 
+    <h1 id="app2" v-bind:attr="'attr'+attr">属性绑定</h1>
+    <h1 id="app" :attr="'attr'+attr">属性绑定2</h1>
+
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            data: {
+                attr: '123'
+            }
+        });
+    </script> -->
+    <br/>----------------------------------属性绑定--------------------------------------
+
+    <!-- <h1 id="app">生命周期</h1>
+    <script>
+        var vm = new Vue({　
+            el: '#app',
+            　init: function () {　　
+               alert('init');　
+            },
+            created: function () {　　
+               alert('created');　
+            },
+            　beforeCompile: function () {　　
+               alert('beforeCompile');　
+            },
+            　compiled: function () {　　
+               alert('compiled');　
+            },
+            　attached: function () {　　
+               alert('attached');　
+            },
+            　dettached: function () {　　
+               alert('dettached');　
+            },
+            　beforeDestroy: function () {　　
+               alert('beforeDestroy');　
+            },
+            　destroyed: function () {　　
+               alert('destroyed');　
+            },
+            　ready: function () {　　
+               alert('ready');　　 // 组件完成后调用 $destory() 函数，进行销毁
+                　　
+                this.$destroy();　
+            }
+        });
+    </script> -->
+
+
+    <!-- <div id="app">
+        <button v-on:click="alert" />alert</button>
+        <input value="Sure" v-on:click="alert2" type="button" />
+    </div>
+    <script type="text/javascript">
+        var vm = new Vue({　
+            el: '#app',
+            　data: {
+                a: 1,
+                b: 'abc123'
+            },
+            　methods: {　　
+                alert: function () {　　　
+                    alert(this.a);　　
+                },
+                alert2: function () {　　　
+                    alert(this.b);　　
+                }　
+            }
+        });
+    </script> -->
+    <!-- <my-component title='myTitle' content='myContent'></my-component>
+    <script type="text/javascript">
+        var MyComponent = Vue.component('my-component', {　
+            props: ['title', 'content'],
+            　data: function () {　　
+                return {
+                    desc: '123'　　
+                }　
+            },
+            　template: '<div> \　　<h1>{{title}}</h1> \　　　<p>{{content}}</p> \　　　<p>{{desc}}</p> \　　</div>'
+        })
+    </script> -->
+
+
+    <p>-----------------------------------------------------</p>
+    <!-- <script src="~/js/codejs.js">-->
+
+    <!-- 
+    <h1 id="app">{{message}}</h1>
+
+    <script type="text/javascript">
+        var vm = new Vue({
+            el: '#app',
+            data: {
+                message: 'apappapappa'
+            }
+
+
+        });
+    </script> -->
+    <!-- 
+    <div id="app3">
+        <message content="第二个特性是组件化，简单来说我们可以自己定义 HTML 标签，并在模板中使用它"></message>
+
+    </div>
+    <script type="text/javascript">
+        var Message = Vue.extend({　　
+            props: ['content'],
+            　　template: '<h1>{{content}}</h1>'　
+        });　
+        Vue.component('message', Message);　
+        var vm = new Vue({　　
+            el: '#app3',
+          
+        });
+    </script> -->
+    <!-- <div id="app">
+
+        <p>123</p>
+    </div>
+    <script id="tpl" type="x-template">
+        <div class='tpl'>
+            <p>This is a tpl from script tag</p>
+        </div>
+    </script>
+    <script type="text/javascript">
+        var vm = new Vue({　　
+            el: '#app',
+            　　template: '#tpl'　
+        });
+    </script>
+ -->
+    <!-- <script>
+        var data = {
+            a: 1
+        }
+        var vm = new Vue({　
+            data: data
+        })
+        console.log(vm.$data === data); // -> true
+        console.log(vm.a === data.a); // -> true
+        // 设置属性也会影响到原始数据
+        vm.a = 2
+        data.a // -> 2
+        // 反之亦然
+        data.a = 3
+        vm.a // -> 3
+    </script> -->
+
+
+    <div>
+        <footer>
+            <p>© 2017 - VueDemo</p>
+        </footer>
+    </div>
+
+
+
+</body>
+
+</html>

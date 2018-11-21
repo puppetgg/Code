@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\BaseModel\bin\Debug\BaseModel.dll
+C:\work\code记录\code记录\BaseModel\bin\Debug\BaseModel.pdb
+C:\work\code记录\code记录\BaseModel\obj\Debug\BaseModel.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\BaseModel\obj\Debug\BaseModel.dll
+C:\work\code记录\code记录\BaseModel\obj\Debug\BaseModel.pdb
+C:\work\code记录\code记录\BaseModel\obj\Debug\BaseModel.csprojResolveAssemblyReference.cache

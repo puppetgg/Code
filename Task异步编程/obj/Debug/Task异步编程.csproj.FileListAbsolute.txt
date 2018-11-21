@@ -1,0 +1,16 @@
+C:\work\测试论证\Task编程\Task异步编程\bin\Debug\Task异步编程.exe.config
+C:\work\测试论证\Task编程\Task异步编程\bin\Debug\Task异步编程.exe
+C:\work\测试论证\Task编程\Task异步编程\bin\Debug\Task异步编程.pdb
+C:\work\测试论证\Task编程\Task异步编程\obj\Debug\Task异步编程.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\Task异步编程\obj\Debug\Task异步编程.异步frm.resources
+C:\work\测试论证\Task编程\Task异步编程\obj\Debug\Task异步编程.csproj.GenerateResource.Cache
+C:\work\测试论证\Task编程\Task异步编程\obj\Debug\Task异步编程.exe
+C:\work\测试论证\Task编程\Task异步编程\obj\Debug\Task异步编程.pdb
+C:\work\code记录\code记录\Task异步编程\bin\Debug\Task异步编程.exe.config
+C:\work\code记录\code记录\Task异步编程\obj\Debug\Task异步编程.exe
+C:\work\code记录\code记录\Task异步编程\obj\Debug\Task异步编程.pdb
+C:\work\code记录\code记录\Task异步编程\bin\Debug\Task异步编程.exe
+C:\work\code记录\code记录\Task异步编程\bin\Debug\Task异步编程.pdb
+C:\work\code记录\code记录\Task异步编程\obj\Debug\Task异步编程.异步frm.resources
+C:\work\code记录\code记录\Task异步编程\obj\Debug\Task异步编程.csproj.GenerateResource.cache
+C:\work\code记录\code记录\Task异步编程\obj\Debug\Task异步编程.csproj.CoreCompileInputs.cache

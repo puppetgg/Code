@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\4程池线程来实现异步调用\bin\Debug\netcoreapp2.0\4程池线程来实现异步调用.deps.json
+C:\work\code记录\code记录\4程池线程来实现异步调用\bin\Debug\netcoreapp2.0\4程池线程来实现异步调用.runtimeconfig.json
+C:\work\code记录\code记录\4程池线程来实现异步调用\bin\Debug\netcoreapp2.0\4程池线程来实现异步调用.runtimeconfig.dev.json
+C:\work\code记录\code记录\4程池线程来实现异步调用\bin\Debug\netcoreapp2.0\4程池线程来实现异步调用.dll
+C:\work\code记录\code记录\4程池线程来实现异步调用\bin\Debug\netcoreapp2.0\4程池线程来实现异步调用.pdb
+C:\work\code记录\code记录\4程池线程来实现异步调用\obj\Debug\netcoreapp2.0\4程池线程来实现异步调用.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\4程池线程来实现异步调用\obj\Debug\netcoreapp2.0\4程池线程来实现异步调用.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\4程池线程来实现异步调用\obj\Debug\netcoreapp2.0\4程池线程来实现异步调用.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\4程池线程来实现异步调用\obj\Debug\netcoreapp2.0\4程池线程来实现异步调用.AssemblyInfo.cs
+C:\work\code记录\code记录\4程池线程来实现异步调用\obj\Debug\netcoreapp2.0\4程池线程来实现异步调用.dll
+C:\work\code记录\code记录\4程池线程来实现异步调用\obj\Debug\netcoreapp2.0\4程池线程来实现异步调用.pdb

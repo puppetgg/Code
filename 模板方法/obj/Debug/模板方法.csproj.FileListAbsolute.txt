@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\模板方法\bin\Debug\模板方法.exe.config
+C:\work\code记录\code记录\模板方法\bin\Debug\模板方法.exe
+C:\work\code记录\code记录\模板方法\bin\Debug\模板方法.pdb
+C:\work\code记录\code记录\模板方法\obj\Debug\模板方法.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\模板方法\obj\Debug\模板方法.exe
+C:\work\code记录\code记录\模板方法\obj\Debug\模板方法.pdb
+C:\work\code记录\code记录\模板方法\obj\Debug\模板方法.csprojResolveAssemblyReference.cache

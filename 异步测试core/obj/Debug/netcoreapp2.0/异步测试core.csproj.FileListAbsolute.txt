@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\异步测试core\bin\Debug\netcoreapp2.0\异步测试core.deps.json
+C:\work\code记录\code记录\异步测试core\bin\Debug\netcoreapp2.0\异步测试core.runtimeconfig.json
+C:\work\code记录\code记录\异步测试core\bin\Debug\netcoreapp2.0\异步测试core.runtimeconfig.dev.json
+C:\work\code记录\code记录\异步测试core\bin\Debug\netcoreapp2.0\异步测试core.dll
+C:\work\code记录\code记录\异步测试core\bin\Debug\netcoreapp2.0\异步测试core.pdb
+C:\work\code记录\code记录\异步测试core\obj\Debug\netcoreapp2.0\异步测试core.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\异步测试core\obj\Debug\netcoreapp2.0\异步测试core.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\异步测试core\obj\Debug\netcoreapp2.0\异步测试core.AssemblyInfo.cs
+C:\work\code记录\code记录\异步测试core\obj\Debug\netcoreapp2.0\异步测试core.dll
+C:\work\code记录\code记录\异步测试core\obj\Debug\netcoreapp2.0\异步测试core.pdb
+C:\work\code记录\code记录\异步测试core\obj\Debug\netcoreapp2.0\异步测试core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\3DisplayNameAttribute\bin\Debug\3DisplayNameAttribute.exe.config
+C:\work\code记录\code记录\3DisplayNameAttribute\bin\Debug\3DisplayNameAttribute.exe
+C:\work\code记录\code记录\3DisplayNameAttribute\bin\Debug\3DisplayNameAttribute.pdb
+C:\work\code记录\code记录\3DisplayNameAttribute\obj\Debug\3DisplayNameAttribute.csprojAssemblyReference.cache
+C:\work\code记录\code记录\3DisplayNameAttribute\obj\Debug\3DisplayNameAttribute.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\3DisplayNameAttribute\obj\Debug\3DisplayNameAttribute.exe
+C:\work\code记录\code记录\3DisplayNameAttribute\obj\Debug\3DisplayNameAttribute.pdb

@@ -1,0 +1,8 @@
+C:\work\code记录\code记录\AsyncMQNet\obj\Debug\AsyncMQNet.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\AsyncMQNet\bin\Debug\AsyncMQNet.exe.config
+C:\work\code记录\code记录\AsyncMQNet\bin\Debug\AsyncMQNet.exe
+C:\work\code记录\code记录\AsyncMQNet\bin\Debug\AsyncMQNet.pdb
+C:\work\code记录\code记录\AsyncMQNet\bin\Debug\Newtonsoft.Json.dll
+C:\work\code记录\code记录\AsyncMQNet\obj\Debug\AsyncMQNet.csproj.CopyComplete
+C:\work\code记录\code记录\AsyncMQNet\obj\Debug\AsyncMQNet.exe
+C:\work\code记录\code记录\AsyncMQNet\obj\Debug\AsyncMQNet.pdb

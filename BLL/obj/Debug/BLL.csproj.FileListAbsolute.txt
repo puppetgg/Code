@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\BLL\bin\Debug\BLL.dll
+C:\work\code记录\code记录\BLL\bin\Debug\BLL.pdb
+C:\work\code记录\code记录\BLL\bin\Debug\DAL.dll
+C:\work\code记录\code记录\BLL\bin\Debug\Model.dll
+C:\work\code记录\code记录\BLL\bin\Debug\DAL.pdb
+C:\work\code记录\code记录\BLL\bin\Debug\Model.pdb
+C:\work\code记录\code记录\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\work\code记录\code记录\BLL\obj\Debug\BLL.dll
+C:\work\code记录\code记录\BLL\obj\Debug\BLL.pdb

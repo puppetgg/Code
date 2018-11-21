@@ -1,0 +1,7 @@
+Z:\CodeDemo\SelectMany的使用\bin\Debug\SelectMany的使用.exe.config
+Z:\CodeDemo\SelectMany的使用\bin\Debug\SelectMany的使用.exe
+Z:\CodeDemo\SelectMany的使用\bin\Debug\SelectMany的使用.pdb
+Z:\CodeDemo\SelectMany的使用\obj\Debug\SelectMany的使用.csprojAssemblyReference.cache
+Z:\CodeDemo\SelectMany的使用\obj\Debug\SelectMany的使用.csproj.CoreCompileInputs.cache
+Z:\CodeDemo\SelectMany的使用\obj\Debug\SelectMany的使用.exe
+Z:\CodeDemo\SelectMany的使用\obj\Debug\SelectMany的使用.pdb

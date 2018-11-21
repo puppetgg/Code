@@ -1,0 +1,8 @@
+Z:\CodeDemo\1问题原型\bin\Debug\1问题原型.exe.config
+Z:\CodeDemo\1问题原型\bin\Debug\1问题原型.exe
+Z:\CodeDemo\1问题原型\bin\Debug\1问题原型.pdb
+Z:\CodeDemo\1问题原型\obj\Debug\_1问题原型.Properties.Resources.resources
+Z:\CodeDemo\1问题原型\obj\Debug\1问题原型.csproj.GenerateResource.cache
+Z:\CodeDemo\1问题原型\obj\Debug\1问题原型.csproj.CoreCompileInputs.cache
+Z:\CodeDemo\1问题原型\obj\Debug\1问题原型.exe
+Z:\CodeDemo\1问题原型\obj\Debug\1问题原型.pdb

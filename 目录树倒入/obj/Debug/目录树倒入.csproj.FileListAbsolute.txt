@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\目录树倒入\bin\Debug\目录树倒入.exe.config
+C:\work\code记录\code记录\目录树倒入\bin\Debug\目录树倒入.exe
+C:\work\code记录\code记录\目录树倒入\bin\Debug\目录树倒入.pdb
+C:\work\code记录\code记录\目录树倒入\obj\Debug\目录树倒入.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\目录树倒入\obj\Debug\目录树倒入.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\目录树倒入\obj\Debug\目录树倒入.exe
+C:\work\code记录\code记录\目录树倒入\obj\Debug\目录树倒入.pdb

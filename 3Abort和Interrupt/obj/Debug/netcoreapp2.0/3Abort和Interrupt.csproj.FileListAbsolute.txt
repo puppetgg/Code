@@ -1,0 +1,10 @@
+C:\work\code记录\code记录\3Abort和Interrupt\bin\Debug\netcoreapp2.0\3Abort和Interrupt.deps.json
+C:\work\code记录\code记录\3Abort和Interrupt\bin\Debug\netcoreapp2.0\3Abort和Interrupt.runtimeconfig.json
+C:\work\code记录\code记录\3Abort和Interrupt\bin\Debug\netcoreapp2.0\3Abort和Interrupt.runtimeconfig.dev.json
+C:\work\code记录\code记录\3Abort和Interrupt\bin\Debug\netcoreapp2.0\3Abort和Interrupt.dll
+C:\work\code记录\code记录\3Abort和Interrupt\bin\Debug\netcoreapp2.0\3Abort和Interrupt.pdb
+C:\work\code记录\code记录\3Abort和Interrupt\obj\Debug\netcoreapp2.0\3Abort和Interrupt.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\3Abort和Interrupt\obj\Debug\netcoreapp2.0\3Abort和Interrupt.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\3Abort和Interrupt\obj\Debug\netcoreapp2.0\3Abort和Interrupt.AssemblyInfo.cs
+C:\work\code记录\code记录\3Abort和Interrupt\obj\Debug\netcoreapp2.0\3Abort和Interrupt.dll
+C:\work\code记录\code记录\3Abort和Interrupt\obj\Debug\netcoreapp2.0\3Abort和Interrupt.pdb

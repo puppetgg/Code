@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\PropSort\bin\Debug\PropSort.exe.config
+C:\work\code记录\code记录\PropSort\bin\Debug\PropSort.exe
+C:\work\code记录\code记录\PropSort\bin\Debug\PropSort.pdb
+C:\work\code记录\code记录\PropSort\obj\Debug\PropSort.exe
+C:\work\code记录\code记录\PropSort\obj\Debug\PropSort.pdb
+C:\work\code记录\code记录\PropSort\obj\Debug\PropSort.csproj.CoreCompileInputs.cache

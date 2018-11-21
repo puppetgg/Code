@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\线程基础\bin\Debug\线程基础.exe.config
+C:\work\code记录\code记录\线程基础\bin\Debug\线程基础.exe
+C:\work\code记录\code记录\线程基础\bin\Debug\线程基础.pdb
+C:\work\code记录\code记录\线程基础\obj\Debug\1线程基础.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\线程基础\obj\Debug\线程基础.exe
+C:\work\code记录\code记录\线程基础\obj\Debug\线程基础.pdb

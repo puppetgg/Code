@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>NetOffice.Visio</id>
+    <version>$version$</version>
+    <title>NetOffice.Visio</title>
+    <authors>Sebastian Lange, Jozef Izso</authors>
+    <owners>Jozef Izso</owners>
+    <licenseUrl>https://raw.githubusercontent.com/NetOfficeFw/NetOffice/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/NetOfficeFw/NetOffice</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/NetOfficeFw/NetOffice-Assets/master/NetOfficeFwLogo_256x256.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NetOffice Visio API library for NetOffice based solutions.
+
+NetOffice for Visio is a set of libraries for building add-ins, extending and automating Microsoft Visio application.</description>
+    <summary>NetOffice for Visio - build add-ins, extend and automate Microsoft Visio application.</summary>
+    <releaseNotes />
+    <copyright>Copyright © 2011-2016 Sebastian Lange, Copyright (c) 2015-2016 Jozef Izso</copyright>
+    <tags>netoffice office ms-office visio interop wrapper net40 net45 vsto</tags>
+    <dependencies>
+      <dependency id="NetOffice.Core" version="$version$" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\out\$configuration$\VisioApi\VisioApi.dll" target="lib\net40" />
+    <file src="..\out\$configuration$\VisioApi\VisioApi.pdb" target="lib\net40" />
+    <file src="..\out\$configuration$\VisioApi\VisioApi.xml" target="lib\net40" />
+
+    <file src="tools\NetOffice.Visio.install.ps1" target="tools\install.ps1" />
+
+    <file src="..\Source\Visio\**\*.cs" target="src" />
+
+    <file src="..\LICENSE.txt" target="LICENSE.txt" />
+  </files>
+</package>

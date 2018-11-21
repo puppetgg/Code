@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\2内置Conditional\bin\Release\2内置Conditional.exe.config
+C:\work\code记录\code记录\2内置Conditional\bin\Release\2内置Conditional.exe
+C:\work\code记录\code记录\2内置Conditional\bin\Release\2内置Conditional.pdb
+C:\work\code记录\code记录\2内置Conditional\obj\Release\2内置Conditional.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\2内置Conditional\obj\Release\2内置Conditional.exe
+C:\work\code记录\code记录\2内置Conditional\obj\Release\2内置Conditional.pdb

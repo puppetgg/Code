@@ -1,0 +1,6 @@
+Z:\CodeDemo\IV使用实例\bin\Debug\IV使用实例.exe.config
+Z:\CodeDemo\IV使用实例\bin\Debug\IV使用实例.exe
+Z:\CodeDemo\IV使用实例\bin\Debug\IV使用实例.pdb
+Z:\CodeDemo\IV使用实例\obj\Debug\I使用实例.csproj.CoreCompileInputs.cache
+Z:\CodeDemo\IV使用实例\obj\Debug\IV使用实例.exe
+Z:\CodeDemo\IV使用实例\obj\Debug\IV使用实例.pdb

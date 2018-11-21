@@ -1,0 +1,12 @@
+C:\work\code记录\code记录\BaseDal\bin\Debug\BaseDal.dll
+C:\work\code记录\code记录\BaseDal\bin\Debug\BaseDal.pdb
+C:\work\code记录\code记录\BaseDal\obj\Debug\BaseDal.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\BaseDal\obj\Debug\BaseDal.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\BaseDal\obj\Debug\BaseDal.csproj.CopyComplete
+C:\work\code记录\code记录\BaseDal\obj\Debug\BaseDal.dll
+C:\work\code记录\code记录\BaseDal\obj\Debug\BaseDal.pdb
+C:\work\code记录\code记录\BaseDal\bin\Debug\BaseModel.dll
+C:\work\code记录\code记录\BaseDal\bin\Debug\BaseModel.pdb
+C:\work\code记录\code记录\BaseDal\bin\Debug\FRD.Framework.dll
+C:\work\code记录\code记录\BaseDal\bin\Debug\log4net.dll
+C:\work\code记录\code记录\BaseDal\bin\Debug\FRD.Framework.pdb

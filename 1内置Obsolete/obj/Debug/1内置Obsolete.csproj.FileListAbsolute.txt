@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\1内置Obsolete\bin\Debug\1内置Obsolete.exe.config
+C:\work\code记录\code记录\1内置Obsolete\bin\Debug\1内置Obsolete.exe
+C:\work\code记录\code记录\1内置Obsolete\bin\Debug\1内置Obsolete.pdb
+C:\work\code记录\code记录\1内置Obsolete\obj\Debug\1内置Obsolete.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\1内置Obsolete\obj\Debug\1内置Obsolete.exe
+C:\work\code记录\code记录\1内置Obsolete\obj\Debug\1内置Obsolete.pdb

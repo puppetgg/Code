@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\海外代购实例\bin\Debug\海外代购实例.exe.config
+C:\work\code记录\code记录\海外代购实例\bin\Debug\海外代购实例.exe
+C:\work\code记录\code记录\海外代购实例\bin\Debug\海外代购实例.pdb
+C:\work\code记录\code记录\海外代购实例\obj\Debug\海外代购实例.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\海外代购实例\obj\Debug\海外代购实例.exe
+C:\work\code记录\code记录\海外代购实例\obj\Debug\海外代购实例.pdb

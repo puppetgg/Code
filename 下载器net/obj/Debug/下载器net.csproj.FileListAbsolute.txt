@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\下载器net\bin\Debug\下载器net.exe.config
+C:\work\code记录\code记录\下载器net\bin\Debug\下载器net.exe
+C:\work\code记录\code记录\下载器net\bin\Debug\下载器net.pdb
+C:\work\code记录\code记录\下载器net\obj\Debug\下载器net.csprojAssemblyReference.cache
+C:\work\code记录\code记录\下载器net\obj\Debug\下载器net.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\下载器net\obj\Debug\下载器net.exe
+C:\work\code记录\code记录\下载器net\obj\Debug\下载器net.pdb

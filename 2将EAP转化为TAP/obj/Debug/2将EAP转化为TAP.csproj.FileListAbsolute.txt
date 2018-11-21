@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\2将EAP转化为TAP\bin\Debug\2将EAP转化为TAP.dll
+C:\work\code记录\code记录\2将EAP转化为TAP\bin\Debug\2将EAP转化为TAP.pdb
+C:\work\code记录\code记录\2将EAP转化为TAP\obj\Debug\2将EAP转化为TAP.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\2将EAP转化为TAP\obj\Debug\2将EAP转化为TAP.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\2将EAP转化为TAP\obj\Debug\2将EAP转化为TAP.dll
+C:\work\code记录\code记录\2将EAP转化为TAP\obj\Debug\2将EAP转化为TAP.pdb

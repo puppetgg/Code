@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\6使用net测试\bin\Debug\6使用net测试.exe.config
+C:\work\code记录\code记录\6使用net测试\bin\Debug\6使用net测试.exe
+C:\work\code记录\code记录\6使用net测试\bin\Debug\6使用net测试.pdb
+C:\work\code记录\code记录\6使用net测试\obj\Debug\6使用net测试.csprojAssemblyReference.cache
+C:\work\code记录\code记录\6使用net测试\obj\Debug\6使用net测试.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\6使用net测试\obj\Debug\6使用net测试.exe
+C:\work\code记录\code记录\6使用net测试\obj\Debug\6使用net测试.pdb

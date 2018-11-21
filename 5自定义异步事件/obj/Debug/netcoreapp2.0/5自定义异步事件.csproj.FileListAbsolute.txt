@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\5自定义异步事件\bin\Debug\netcoreapp2.0\5自定义异步事件.deps.json
+C:\work\code记录\code记录\5自定义异步事件\bin\Debug\netcoreapp2.0\5自定义异步事件.runtimeconfig.json
+C:\work\code记录\code记录\5自定义异步事件\bin\Debug\netcoreapp2.0\5自定义异步事件.runtimeconfig.dev.json
+C:\work\code记录\code记录\5自定义异步事件\bin\Debug\netcoreapp2.0\5自定义异步事件.dll
+C:\work\code记录\code记录\5自定义异步事件\bin\Debug\netcoreapp2.0\5自定义异步事件.pdb
+C:\work\code记录\code记录\5自定义异步事件\obj\Debug\netcoreapp2.0\5自定义异步事件.csprojAssemblyReference.cache
+C:\work\code记录\code记录\5自定义异步事件\obj\Debug\netcoreapp2.0\5自定义异步事件.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\5自定义异步事件\obj\Debug\netcoreapp2.0\5自定义异步事件.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\5自定义异步事件\obj\Debug\netcoreapp2.0\5自定义异步事件.AssemblyInfo.cs
+C:\work\code记录\code记录\5自定义异步事件\obj\Debug\netcoreapp2.0\5自定义异步事件.dll
+C:\work\code记录\code记录\5自定义异步事件\obj\Debug\netcoreapp2.0\5自定义异步事件.pdb

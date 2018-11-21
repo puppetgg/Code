@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\事件异步的模型\bin\Debug\netcoreapp2.0\事件异步的模型.deps.json
+C:\work\code记录\code记录\事件异步的模型\bin\Debug\netcoreapp2.0\事件异步的模型.runtimeconfig.json
+C:\work\code记录\code记录\事件异步的模型\bin\Debug\netcoreapp2.0\事件异步的模型.runtimeconfig.dev.json
+C:\work\code记录\code记录\事件异步的模型\bin\Debug\netcoreapp2.0\事件异步的模型.dll
+C:\work\code记录\code记录\事件异步的模型\bin\Debug\netcoreapp2.0\事件异步的模型.pdb
+C:\work\code记录\code记录\事件异步的模型\obj\Debug\netcoreapp2.0\事件异步的模型.csprojAssemblyReference.cache
+C:\work\code记录\code记录\事件异步的模型\obj\Debug\netcoreapp2.0\事件异步的模型.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\事件异步的模型\obj\Debug\netcoreapp2.0\事件异步的模型.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\事件异步的模型\obj\Debug\netcoreapp2.0\事件异步的模型.AssemblyInfo.cs
+C:\work\code记录\code记录\事件异步的模型\obj\Debug\netcoreapp2.0\事件异步的模型.dll
+C:\work\code记录\code记录\事件异步的模型\obj\Debug\netcoreapp2.0\事件异步的模型.pdb

@@ -1,0 +1,10 @@
+C:\work\code记录\code记录\邮件发送服务\bin\Debug\邮件发送服务.exe.config
+C:\work\code记录\code记录\邮件发送服务\bin\Debug\邮件发送服务.exe
+C:\work\code记录\code记录\邮件发送服务\bin\Debug\邮件发送服务.pdb
+C:\work\code记录\code记录\邮件发送服务\bin\Debug\StackExchange.Redis.dll
+C:\work\code记录\code记录\邮件发送服务\bin\Debug\StackExchange.Redis.xml
+C:\work\code记录\code记录\邮件发送服务\obj\Debug\邮件发送服务.csprojAssemblyReference.cache
+C:\work\code记录\code记录\邮件发送服务\obj\Debug\邮件发送服务.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\邮件发送服务\obj\Debug\邮件发送服务.csproj.CopyComplete
+C:\work\code记录\code记录\邮件发送服务\obj\Debug\邮件发送服务.exe
+C:\work\code记录\code记录\邮件发送服务\obj\Debug\邮件发送服务.pdb

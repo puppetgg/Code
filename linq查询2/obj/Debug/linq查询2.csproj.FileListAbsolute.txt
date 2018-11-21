@@ -1,0 +1,12 @@
+C:\work\测试论证\Task编程\linq查询2\bin\Debug\linq查询2.exe.config
+C:\work\测试论证\Task编程\linq查询2\bin\Debug\linq查询2.exe
+C:\work\测试论证\Task编程\linq查询2\bin\Debug\linq查询2.pdb
+C:\work\测试论证\Task编程\linq查询2\obj\Debug\linq查询2.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\linq查询2\obj\Debug\linq查询2.exe
+C:\work\测试论证\Task编程\linq查询2\obj\Debug\linq查询2.pdb
+C:\work\code记录\code记录\linq查询2\bin\Debug\linq查询2.exe.config
+C:\work\code记录\code记录\linq查询2\bin\Debug\linq查询2.exe
+C:\work\code记录\code记录\linq查询2\bin\Debug\linq查询2.pdb
+C:\work\code记录\code记录\linq查询2\obj\Debug\linq查询2.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\linq查询2\obj\Debug\linq查询2.exe
+C:\work\code记录\code记录\linq查询2\obj\Debug\linq查询2.pdb

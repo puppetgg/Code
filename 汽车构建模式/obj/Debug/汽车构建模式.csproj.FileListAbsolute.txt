@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\汽车构建模式\bin\Debug\汽车构建模式.exe.config
+C:\work\code记录\code记录\汽车构建模式\bin\Debug\汽车构建模式.exe
+C:\work\code记录\code记录\汽车构建模式\bin\Debug\汽车构建模式.pdb
+C:\work\code记录\code记录\汽车构建模式\obj\Debug\汽车构建模式.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\汽车构建模式\obj\Debug\汽车构建模式.exe
+C:\work\code记录\code记录\汽车构建模式\obj\Debug\汽车构建模式.pdb

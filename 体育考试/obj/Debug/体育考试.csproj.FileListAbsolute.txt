@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\体育考试\bin\Debug\体育考试.exe.config
+C:\work\code记录\code记录\体育考试\bin\Debug\体育考试.exe
+C:\work\code记录\code记录\体育考试\bin\Debug\体育考试.pdb
+C:\work\code记录\code记录\体育考试\obj\Debug\体育考试.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\体育考试\obj\Debug\体育考试.exe
+C:\work\code记录\code记录\体育考试\obj\Debug\体育考试.pdb
+C:\work\code记录\code记录\体育考试\obj\Debug\体育考试.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\双udp版本\bin\Debug\netcoreapp2.0\双udp版本.deps.json
+C:\work\code记录\code记录\双udp版本\bin\Debug\netcoreapp2.0\双udp版本.runtimeconfig.json
+C:\work\code记录\code记录\双udp版本\bin\Debug\netcoreapp2.0\双udp版本.runtimeconfig.dev.json
+C:\work\code记录\code记录\双udp版本\bin\Debug\netcoreapp2.0\双udp版本.dll
+C:\work\code记录\code记录\双udp版本\bin\Debug\netcoreapp2.0\双udp版本.pdb
+C:\work\code记录\code记录\双udp版本\obj\Debug\netcoreapp2.0\双udp版本.csprojAssemblyReference.cache
+C:\work\code记录\code记录\双udp版本\obj\Debug\netcoreapp2.0\双udp版本.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\双udp版本\obj\Debug\netcoreapp2.0\双udp版本.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\双udp版本\obj\Debug\netcoreapp2.0\双udp版本.AssemblyInfo.cs
+C:\work\code记录\code记录\双udp版本\obj\Debug\netcoreapp2.0\双udp版本.dll
+C:\work\code记录\code记录\双udp版本\obj\Debug\netcoreapp2.0\双udp版本.pdb

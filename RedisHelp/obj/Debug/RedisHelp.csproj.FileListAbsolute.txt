@@ -1,0 +1,10 @@
+C:\work\code记录\code记录\RedisHelp\bin\Debug\RedisHelp.dll
+C:\work\code记录\code记录\RedisHelp\bin\Debug\RedisHelp.pdb
+C:\work\code记录\code记录\RedisHelp\bin\Debug\Newtonsoft.Json.dll
+C:\work\code记录\code记录\RedisHelp\bin\Debug\StackExchange.Redis.dll
+C:\work\code记录\code记录\RedisHelp\bin\Debug\StackExchange.Redis.xml
+C:\work\code记录\code记录\RedisHelp\obj\Debug\RedisHelp.csprojAssemblyReference.cache
+C:\work\code记录\code记录\RedisHelp\obj\Debug\RedisHelp.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\RedisHelp\obj\Debug\RedisHelp.csproj.CopyComplete
+C:\work\code记录\code记录\RedisHelp\obj\Debug\RedisHelp.dll
+C:\work\code记录\code记录\RedisHelp\obj\Debug\RedisHelp.pdb

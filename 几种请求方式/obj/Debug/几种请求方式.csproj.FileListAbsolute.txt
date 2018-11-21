@@ -1,0 +1,12 @@
+C:\work\测试论证\Task编程\几种请求方式\bin\Debug\几种请求方式.exe.config
+C:\work\测试论证\Task编程\几种请求方式\bin\Debug\几种请求方式.exe
+C:\work\测试论证\Task编程\几种请求方式\bin\Debug\几种请求方式.pdb
+C:\work\测试论证\Task编程\几种请求方式\obj\Debug\几种请求方式.exe
+C:\work\测试论证\Task编程\几种请求方式\obj\Debug\几种请求方式.pdb
+C:\work\测试论证\Task编程\几种请求方式\obj\Debug\几种请求方式.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\几种请求方式\bin\Debug\几种请求方式.exe.config
+C:\work\code记录\code记录\几种请求方式\bin\Debug\几种请求方式.exe
+C:\work\code记录\code记录\几种请求方式\bin\Debug\几种请求方式.pdb
+C:\work\code记录\code记录\几种请求方式\obj\Debug\几种请求方式.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\几种请求方式\obj\Debug\几种请求方式.exe
+C:\work\code记录\code记录\几种请求方式\obj\Debug\几种请求方式.pdb

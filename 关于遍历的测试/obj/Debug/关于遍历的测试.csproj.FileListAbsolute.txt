@@ -1,0 +1,11 @@
+C:\work\测试论证\Task编程\关于遍历的测试\bin\Debug\关于遍历的测试.exe.config
+C:\work\测试论证\Task编程\关于遍历的测试\bin\Debug\关于遍历的测试.exe
+C:\work\测试论证\Task编程\关于遍历的测试\bin\Debug\关于遍历的测试.pdb
+C:\work\测试论证\Task编程\关于遍历的测试\obj\Debug\关于遍历的测试.exe
+C:\work\测试论证\Task编程\关于遍历的测试\obj\Debug\关于遍历的测试.pdb
+C:\work\code记录\code记录\关于遍历的测试\bin\Debug\关于遍历的测试.exe.config
+C:\work\code记录\code记录\关于遍历的测试\bin\Debug\关于遍历的测试.exe
+C:\work\code记录\code记录\关于遍历的测试\bin\Debug\关于遍历的测试.pdb
+C:\work\code记录\code记录\关于遍历的测试\obj\Debug\关于遍历的测试.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\关于遍历的测试\obj\Debug\关于遍历的测试.exe
+C:\work\code记录\code记录\关于遍历的测试\obj\Debug\关于遍历的测试.pdb

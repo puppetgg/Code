@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\MSMQLogSystem\bin\Debug\MSMQLogSystem.exe.config
+C:\work\code记录\code记录\MSMQLogSystem\bin\Debug\MSMQLogSystem.exe
+C:\work\code记录\code记录\MSMQLogSystem\bin\Debug\MSMQLogSystem.pdb
+C:\work\code记录\code记录\MSMQLogSystem\obj\Debug\MSMQLogSystem.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\MSMQLogSystem\obj\Debug\MSMQLogSystem.exe
+C:\work\code记录\code记录\MSMQLogSystem\obj\Debug\MSMQLogSystem.pdb
+C:\work\code记录\code记录\MSMQLogSystem\obj\Debug\MSMQLogSystem.csprojResolveAssemblyReference.cache

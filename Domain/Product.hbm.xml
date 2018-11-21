@@ -1,0 +1,37 @@
+﻿<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Domain" namespace="Domain">
+  <class name="Product" table="T_Product" lazy="true" >
+    <id name="ID" column="ID" type="Guid" >
+      <generator class="assigned" />
+    </id>
+
+    <property name="Code" type="string">
+      <column name="Code" length="50"/>
+    </property>
+
+    <property name="Name" type="string">
+      <column name="Name" length="50"/>
+    </property>
+
+    <property name="QuantityPerUnit" type="string">
+      <column name="QuantityPerUnit" length="50"/>
+    </property>
+
+    <property name="Unit" type="string">
+      <column name="Unit" length="50"/>
+    </property>
+
+
+    <property name="SellPrice" type="decimal">
+      <column name="SellPrice" precision="14" scale="2"/>
+    </property>
+
+    <property name="BuyPrice" type="decimal">
+      <column name="BuyPrice" precision="14" scale="2"/>
+    </property>
+
+    <property name="Remark" type="string">
+      <column name="Remark" length="200"/>
+    </property>
+
+  </class>
+</hibernate-mapping>

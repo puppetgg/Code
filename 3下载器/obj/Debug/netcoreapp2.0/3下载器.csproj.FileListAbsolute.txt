@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\3下载器\obj\Debug\netcoreapp2.0\3下载器.csprojAssemblyReference.cache
+C:\work\code记录\code记录\3下载器\obj\Debug\netcoreapp2.0\3下载器.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\3下载器\obj\Debug\netcoreapp2.0\3下载器.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\3下载器\obj\Debug\netcoreapp2.0\3下载器.AssemblyInfo.cs
+C:\work\code记录\code记录\3下载器\bin\Debug\netcoreapp2.0\3下载器.deps.json
+C:\work\code记录\code记录\3下载器\bin\Debug\netcoreapp2.0\3下载器.runtimeconfig.json
+C:\work\code记录\code记录\3下载器\bin\Debug\netcoreapp2.0\3下载器.runtimeconfig.dev.json
+C:\work\code记录\code记录\3下载器\bin\Debug\netcoreapp2.0\3下载器.dll
+C:\work\code记录\code记录\3下载器\bin\Debug\netcoreapp2.0\3下载器.pdb
+C:\work\code记录\code记录\3下载器\obj\Debug\netcoreapp2.0\3下载器.dll
+C:\work\code记录\code记录\3下载器\obj\Debug\netcoreapp2.0\3下载器.pdb

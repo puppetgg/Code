@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\学生选课系统\bin\Debug\学生选课系统.exe.config
+C:\work\code记录\code记录\学生选课系统\bin\Debug\学生选课系统.exe
+C:\work\code记录\code记录\学生选课系统\bin\Debug\学生选课系统.pdb
+C:\work\code记录\code记录\学生选课系统\obj\Debug\学生选课系统.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\学生选课系统\obj\Debug\学生选课系统.exe
+C:\work\code记录\code记录\学生选课系统\obj\Debug\学生选课系统.pdb
+C:\work\code记录\code记录\学生选课系统\obj\Debug\学生选课系统.csprojResolveAssemblyReference.cache

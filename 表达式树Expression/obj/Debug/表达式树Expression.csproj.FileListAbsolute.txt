@@ -1,0 +1,12 @@
+C:\work\测试论证\Task编程\表达式树Expression\bin\Debug\表达式树Expression.exe.config
+C:\work\测试论证\Task编程\表达式树Expression\bin\Debug\表达式树Expression.exe
+C:\work\测试论证\Task编程\表达式树Expression\bin\Debug\表达式树Expression.pdb
+C:\work\测试论证\Task编程\表达式树Expression\obj\Debug\表达式树Expression.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\表达式树Expression\obj\Debug\表达式树Expression.exe
+C:\work\测试论证\Task编程\表达式树Expression\obj\Debug\表达式树Expression.pdb
+C:\work\code记录\code记录\表达式树Expression\bin\Debug\表达式树Expression.exe.config
+C:\work\code记录\code记录\表达式树Expression\bin\Debug\表达式树Expression.exe
+C:\work\code记录\code记录\表达式树Expression\bin\Debug\表达式树Expression.pdb
+C:\work\code记录\code记录\表达式树Expression\obj\Debug\表达式树Expression.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\表达式树Expression\obj\Debug\表达式树Expression.exe
+C:\work\code记录\code记录\表达式树Expression\obj\Debug\表达式树Expression.pdb

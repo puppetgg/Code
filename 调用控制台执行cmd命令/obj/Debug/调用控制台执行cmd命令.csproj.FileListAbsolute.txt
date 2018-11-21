@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\调用控制台执行cmd命令\bin\Debug\调用控制台执行cmd命令.exe.config
+C:\work\code记录\code记录\调用控制台执行cmd命令\bin\Debug\调用控制台执行cmd命令.exe
+C:\work\code记录\code记录\调用控制台执行cmd命令\bin\Debug\调用控制台执行cmd命令.pdb
+C:\work\code记录\code记录\调用控制台执行cmd命令\obj\Debug\调用控制台执行cmd命令.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\调用控制台执行cmd命令\obj\Debug\调用控制台执行cmd命令.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\调用控制台执行cmd命令\obj\Debug\调用控制台执行cmd命令.exe
+C:\work\code记录\code记录\调用控制台执行cmd命令\obj\Debug\调用控制台执行cmd命令.pdb

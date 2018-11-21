@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\简写形式\bin\Debug\简写形式.exe.config
+C:\work\code记录\code记录\简写形式\bin\Debug\简写形式.exe
+C:\work\code记录\code记录\简写形式\bin\Debug\简写形式.pdb
+C:\work\code记录\code记录\简写形式\obj\Debug\简写形式.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\简写形式\obj\Debug\简写形式.exe
+C:\work\code记录\code记录\简写形式\obj\Debug\简写形式.pdb

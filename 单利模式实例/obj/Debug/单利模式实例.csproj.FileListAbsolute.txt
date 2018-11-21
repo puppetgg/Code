@@ -1,0 +1,9 @@
+C:\work\code记录\code记录\单利模式实例\bin\Debug\单利模式实例.exe.config
+C:\work\code记录\code记录\单利模式实例\bin\Debug\单利模式实例.exe
+C:\work\code记录\code记录\单利模式实例\bin\Debug\单利模式实例.pdb
+C:\work\code记录\code记录\单利模式实例\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\work\code记录\code记录\单利模式实例\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\work\code记录\code记录\单利模式实例\obj\Debug\单利模式实例.exe
+C:\work\code记录\code记录\单利模式实例\obj\Debug\单利模式实例.pdb
+C:\work\code记录\code记录\单利模式实例\obj\Debug\单利模式实例.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\单利模式实例\obj\Debug\单利模式实例.csproj.CopyComplete

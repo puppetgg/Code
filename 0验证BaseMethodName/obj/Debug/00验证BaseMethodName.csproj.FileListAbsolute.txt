@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\0验证BaseMethodName\bin\Debug\0验证BaseMethodName.exe.config
+C:\work\code记录\code记录\0验证BaseMethodName\bin\Debug\0验证BaseMethodName.exe
+C:\work\code记录\code记录\0验证BaseMethodName\bin\Debug\0验证BaseMethodName.pdb
+C:\work\code记录\code记录\0验证BaseMethodName\obj\Debug\00验证BaseMethodName.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\0验证BaseMethodName\obj\Debug\0验证BaseMethodName.exe
+C:\work\code记录\code记录\0验证BaseMethodName\obj\Debug\0验证BaseMethodName.pdb

@@ -1,0 +1,10 @@
+C:\work\code记录\code记录\数据库连接\bin\Debug\数据库连接.exe.config
+C:\work\code记录\code记录\数据库连接\bin\Debug\数据库连接.exe
+C:\work\code记录\code记录\数据库连接\bin\Debug\数据库连接.pdb
+C:\work\code记录\code记录\数据库连接\bin\Debug\EntityFramework.dll
+C:\work\code记录\code记录\数据库连接\bin\Debug\EntityFramework.xml
+C:\work\code记录\code记录\数据库连接\obj\Debug\数据库连接.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\数据库连接\obj\Debug\数据库连接.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\数据库连接\obj\Debug\数据库连接.csproj.CopyComplete
+C:\work\code记录\code记录\数据库连接\obj\Debug\数据库连接.exe
+C:\work\code记录\code记录\数据库连接\obj\Debug\数据库连接.pdb

@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\FirstAsync\bin\Debug\FirstAsync.exe.config
+C:\work\code记录\code记录\FirstAsync\bin\Debug\FirstAsync.exe
+C:\work\code记录\code记录\FirstAsync\bin\Debug\FirstAsync.pdb
+C:\work\code记录\code记录\FirstAsync\obj\Debug\FirstAsync.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\FirstAsync\obj\Debug\FirstAsync.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\FirstAsync\obj\Debug\FirstAsync.exe
+C:\work\code记录\code记录\FirstAsync\obj\Debug\FirstAsync.pdb

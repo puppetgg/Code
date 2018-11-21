@@ -1,0 +1,16 @@
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\hibernate.cfg.xml
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\Mapping.hbm.xml
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\NHCURTTests.dll
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\NHCURTTests.pdb
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\NHCURT.dll
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\NHibernate.dll
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\NHCURT.pdb
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\NHCURT.dll.config
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\NHibernate.xml
+C:\work\CodeDemo\CodeDemo\NHCURTTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\work\CodeDemo\CodeDemo\NHCURTTests\obj\Debug\NHCURTTests.csprojAssemblyReference.cache
+C:\work\CodeDemo\CodeDemo\NHCURTTests\obj\Debug\NHCURTTests.csproj.CoreCompileInputs.cache
+C:\work\CodeDemo\CodeDemo\NHCURTTests\obj\Debug\NHCURTTests.csproj.CopyComplete
+C:\work\CodeDemo\CodeDemo\NHCURTTests\obj\Debug\NHCURTTests.dll
+C:\work\CodeDemo\CodeDemo\NHCURTTests\obj\Debug\NHCURTTests.pdb

@@ -1,0 +1,15 @@
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\功能函数将Excel文件转换.exe.config
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\功能函数将Excel文件转换.exe
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\功能函数将Excel文件转换.pdb
+C:\work\code记录\code记录\功能函数将Excel文件转换\obj\Debug\功能函数将Excel文件转换.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\功能函数将Excel文件转换\obj\Debug\功能函数将Excel文件转换.exe
+C:\work\code记录\code记录\功能函数将Excel文件转换\obj\Debug\功能函数将Excel文件转换.pdb
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\NHibernate.dll
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\NHibernate.xml
+C:\work\code记录\code记录\功能函数将Excel文件转换\obj\Debug\功能函数将Excel文件转换.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\功能函数将Excel文件转换\obj\Debug\功能函数将Excel文件转换.csproj.CopyComplete
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\BaseDal.dll
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\BaseDal.pdb
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\BaseModel.dll
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\BaseModel.pdb
+C:\work\code记录\code记录\功能函数将Excel文件转换\bin\Debug\FRD.Framework.dll

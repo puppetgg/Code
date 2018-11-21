@@ -1,0 +1,26 @@
+﻿@page
+@model vue第一章2Model
+@{
+}
+<h2>vue简介</h2>
+<script src="~/js/vue.js"></script>
+<div id="app">
+    <message content="Halo Word!"></message>
+
+
+
+</div>
+
+
+<script>
+
+    var Message =Vue.extend({
+        props:['content'],
+        template:'<h1>{{content}}</h1>'
+    })
+    Vue.component('message',Message);
+    
+    var vm=new Vue({
+        el:'#app',
+    })
+</script>

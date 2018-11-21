@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\0委托中的同步原型\bin\Debug\0委托中的同步原型.exe.config
+C:\work\code记录\code记录\0委托中的同步原型\bin\Debug\0委托中的同步原型.exe
+C:\work\code记录\code记录\0委托中的同步原型\bin\Debug\0委托中的同步原型.pdb
+C:\work\code记录\code记录\0委托中的同步原型\obj\Debug\0委托中的同步原型.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\0委托中的同步原型\obj\Debug\0委托中的同步原型.exe
+C:\work\code记录\code记录\0委托中的同步原型\obj\Debug\0委托中的同步原型.pdb

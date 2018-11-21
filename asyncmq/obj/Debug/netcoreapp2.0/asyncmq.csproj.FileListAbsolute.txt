@@ -1,0 +1,11 @@
+C:\work\code记录\code记录\asyncmq\bin\Debug\netcoreapp2.0\asyncmq.deps.json
+C:\work\code记录\code记录\asyncmq\bin\Debug\netcoreapp2.0\asyncmq.runtimeconfig.json
+C:\work\code记录\code记录\asyncmq\bin\Debug\netcoreapp2.0\asyncmq.runtimeconfig.dev.json
+C:\work\code记录\code记录\asyncmq\bin\Debug\netcoreapp2.0\asyncmq.dll
+C:\work\code记录\code记录\asyncmq\bin\Debug\netcoreapp2.0\asyncmq.pdb
+C:\work\code记录\code记录\asyncmq\obj\Debug\netcoreapp2.0\asyncmq.csprojAssemblyReference.cache
+C:\work\code记录\code记录\asyncmq\obj\Debug\netcoreapp2.0\asyncmq.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\asyncmq\obj\Debug\netcoreapp2.0\asyncmq.AssemblyInfoInputs.cache
+C:\work\code记录\code记录\asyncmq\obj\Debug\netcoreapp2.0\asyncmq.AssemblyInfo.cs
+C:\work\code记录\code记录\asyncmq\obj\Debug\netcoreapp2.0\asyncmq.dll
+C:\work\code记录\code记录\asyncmq\obj\Debug\netcoreapp2.0\asyncmq.pdb

@@ -1,0 +1,12 @@
+C:\work\测试论证\Task编程\聚变和逆变\bin\Debug\聚变和逆变.exe.config
+C:\work\测试论证\Task编程\聚变和逆变\bin\Debug\聚变和逆变.exe
+C:\work\测试论证\Task编程\聚变和逆变\bin\Debug\聚变和逆变.pdb
+C:\work\测试论证\Task编程\聚变和逆变\obj\Debug\聚变和逆变.exe
+C:\work\测试论证\Task编程\聚变和逆变\obj\Debug\聚变和逆变.pdb
+C:\work\测试论证\Task编程\聚变和逆变\obj\Debug\聚变和逆变.csprojResolveAssemblyReference.cache
+C:\work\code记录\code记录\聚变和逆变\bin\Debug\聚变和逆变.exe.config
+C:\work\code记录\code记录\聚变和逆变\bin\Debug\聚变和逆变.exe
+C:\work\code记录\code记录\聚变和逆变\bin\Debug\聚变和逆变.pdb
+C:\work\code记录\code记录\聚变和逆变\obj\Debug\聚变和逆变.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\聚变和逆变\obj\Debug\聚变和逆变.exe
+C:\work\code记录\code记录\聚变和逆变\obj\Debug\聚变和逆变.pdb

@@ -1,0 +1,6 @@
+C:\work\code记录\code记录\相对路径及文件夹的创建\bin\Debug\相对路径及文件夹的创建.exe.config
+C:\work\code记录\code记录\相对路径及文件夹的创建\bin\Debug\相对路径及文件夹的创建.exe
+C:\work\code记录\code记录\相对路径及文件夹的创建\bin\Debug\相对路径及文件夹的创建.pdb
+C:\work\code记录\code记录\相对路径及文件夹的创建\obj\Debug\相对路径及文件夹的创建.exe
+C:\work\code记录\code记录\相对路径及文件夹的创建\obj\Debug\相对路径及文件夹的创建.pdb
+C:\work\code记录\code记录\相对路径及文件夹的创建\obj\Debug\相对路径及文件夹的创建.csproj.CoreCompileInputs.cache

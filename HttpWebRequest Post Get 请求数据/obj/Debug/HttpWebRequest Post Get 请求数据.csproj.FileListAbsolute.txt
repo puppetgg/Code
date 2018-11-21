@@ -1,0 +1,7 @@
+C:\work\code记录\code记录\HttpWebRequest Post Get 请求数据\bin\Debug\HttpWebRequest Post Get 请求数据.exe.config
+C:\work\code记录\code记录\HttpWebRequest Post Get 请求数据\bin\Debug\HttpWebRequest Post Get 请求数据.exe
+C:\work\code记录\code记录\HttpWebRequest Post Get 请求数据\bin\Debug\HttpWebRequest Post Get 请求数据.pdb
+C:\work\code记录\code记录\HttpWebRequest Post Get 请求数据\obj\Debug\HttpWebRequest Post Get 请求数据.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\HttpWebRequest Post Get 请求数据\obj\Debug\HttpWebRequest Post Get 请求数据.exe
+C:\work\code记录\code记录\HttpWebRequest Post Get 请求数据\obj\Debug\HttpWebRequest Post Get 请求数据.pdb
+C:\work\code记录\code记录\HttpWebRequest Post Get 请求数据\obj\Debug\HttpWebRequest Post Get 请求数据.csprojResolveAssemblyReference.cache

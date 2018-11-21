@@ -1,0 +1,15 @@
+C:\work\测试论证\Task编程\word转pdf之Asposwe\bin\Debug\word转pdf之Asposwe.exe.config
+C:\work\测试论证\Task编程\word转pdf之Asposwe\bin\Debug\word转pdf之Asposwe.exe
+C:\work\测试论证\Task编程\word转pdf之Asposwe\bin\Debug\word转pdf之Asposwe.pdb
+C:\work\测试论证\Task编程\word转pdf之Asposwe\bin\Debug\Aspose.Words.dll
+C:\work\测试论证\Task编程\word转pdf之Asposwe\obj\Debug\word转pdf之Asposwe.csprojResolveAssemblyReference.cache
+C:\work\测试论证\Task编程\word转pdf之Asposwe\obj\Debug\word转pdf之Asposwe.exe
+C:\work\测试论证\Task编程\word转pdf之Asposwe\obj\Debug\word转pdf之Asposwe.pdb
+C:\work\code记录\code记录\word转pdf之Asposwe\bin\Debug\word转pdf之Asposwe.exe.config
+C:\work\code记录\code记录\word转pdf之Asposwe\bin\Debug\word转pdf之Asposwe.exe
+C:\work\code记录\code记录\word转pdf之Asposwe\bin\Debug\word转pdf之Asposwe.pdb
+C:\work\code记录\code记录\word转pdf之Asposwe\bin\Debug\Aspose.Words.dll
+C:\work\code记录\code记录\word转pdf之Asposwe\obj\Debug\word转pdf之Asposwe.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\word转pdf之Asposwe\obj\Debug\word转pdf之Asposwe.csproj.CopyComplete
+C:\work\code记录\code记录\word转pdf之Asposwe\obj\Debug\word转pdf之Asposwe.exe
+C:\work\code记录\code记录\word转pdf之Asposwe\obj\Debug\word转pdf之Asposwe.pdb

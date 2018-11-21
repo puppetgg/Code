@@ -1,0 +1,5 @@
+C:\work\code记录\code记录\SqlLiteTest\bin\Debug\SqlLiteTest.dll
+C:\work\code记录\code记录\SqlLiteTest\bin\Debug\SqlLiteTest.pdb
+C:\work\code记录\code记录\SqlLiteTest\obj\Debug\SqlLiteTest.csproj.CoreCompileInputs.cache
+C:\work\code记录\code记录\SqlLiteTest\obj\Debug\SqlLiteTest.dll
+C:\work\code记录\code记录\SqlLiteTest\obj\Debug\SqlLiteTest.pdb
